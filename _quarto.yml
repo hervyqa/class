@@ -1,0 +1,128 @@
+project:
+  type: website
+  output-dir: _site
+  preview:
+    port: 4200
+    browser: false
+
+website:
+  title: "Class"
+  open-graph:
+    locale: id_ID
+    site-name: Class - Tech Learning with Hervy Qurrotul Ainur Rozi
+    description: |
+      Class adalah materi belajar teknologi bersama Hervy Qurrotul Ainur Rozi.
+      Materi tersebut disesuaikan dengan pendidikan Sekolah Menengah Pertama
+  page-navigation: true
+  twitter-card: true
+  favicon: favicon.png
+  repo-url: https://github.com/hervyqa/class
+  repo-actions: [edit, issue]
+  page-footer:
+    left: |
+      © 2023
+      <a href="https://hervyqa.id" target="_blank">Hervy Qurrotul A.</a>
+    right:
+      - text: "Profil"
+        href: profil.qmd
+      - text: "Lisensi"
+        href: lisensi.qmd
+
+  navbar:
+    background: light
+    logo: logo.svg
+    logo-alt: "Class"
+    title: false
+    collapse-below: lg
+        
+  sidebar:
+    - id: "start"
+      title: "Persiapan"
+      style: "docked"
+      collapse-level: 2
+      align: left
+      contents:
+        - text: "Pendahuluan"
+          href: "index.qmd"
+        - text: "Pengenalan dan Proses Belajar"
+          href: "intro.qmd"
+        - section: "Kelas VII"
+          contents:
+          - text: "#1 Privacy Policy of Internet"
+            href: "vii-part-1.qmd"
+          - text: "#2 Ten Finger Typing"
+            href: "vii-part-2.qmd"
+          - text: "#3 Office and Productifity"
+            href: "vii-part-3.qmd"
+          - text: "#4 Libreoffice Writer for Proposal"
+            href: "vii-part-4.qmd"
+          - text: "#5 Libreoffice Impress for Presentation"
+            href: "vii-part-5.qmd"
+          - text: "#6 Libreoffice Calc for Numeric"
+            href: "vii-part-6.qmd"
+          - text: "#7 Informatics and Generic Skills"
+            href: "vii-part-7.qmd"
+          - text: "#8 Computation Thinking"
+            href: "vii-part-8.qmd"
+          - text: "#9 Information Technology and Communication"
+            href: "vii-part-9.qmd"
+          - text: "#10 Computer System"
+            href: "vii-part-10.qmd"
+          - text: "#11 Computer Networks and the Internet"
+            href: "vii-part-11.qmd"
+        - section: "Kelas VIII"
+          contents:
+          - text: "#1 Informatika dan Berfikir Komputasional"
+            href: "viii-part-1.qmd"
+          - text: "#2 Teknologi Informasi dan Komunikasi"
+            href: "viii-part-2.qmd"
+          - text: "#3 Sistem Komputer"
+            href: "viii-part-3.qmd"
+          - text: "#4 Jaringan Komputer dan Internet"
+            href: "viii-part-4.qmd"
+          - text: "#5 Memahami Bahasa Pemrograman"
+            href: "viii-part-5.qmd"
+          - text: "#6 Developer sebagai Penggerak Teknologi"
+            href: "viii-part-6.qmd"
+            # !praktek kelas viii
+            # git versioning control
+            # jamstack serverless
+            # digital marketing
+            # python basic
+        - section: "Kelas IX"
+          contents:
+          - text: "#1 Open Source Software Benefits"
+            href: "ix-part-1.qmd"
+          - text: "#2 Versioning control with Git"
+            href: "ix-part-2.qmd"
+          - text: "#3 Computer Science Jobs"
+            href: "ix-part-3.qmd"
+          - text: "#4 Programming Language"
+            href: "ix-part-4.qmd"
+          - text: "#5 IDE for programmer"
+            href: "ix-part-5.qmd"
+          - text: "#6 Framework Programming"
+            href: "ix-part-6.qmd"
+        - section: "Multimedia Extra"
+          contents:
+          - text: "#1 Layout Book Design"
+            href: "mm-part-1.qmd"
+          - text: "#2 Typography"
+            href: "mm-part-2.qmd"
+          - text: "#3 Illustration"
+            href: "mm-part-3.qmd"
+          - text: "#4 Film & Editing"
+            href: "mm-part-4.qmd"
+          - text: "#5 Digital Marketing"
+            href: "mm-part-5.qmd"
+          - text: "#6 Textile Design"
+            href: "mm-part-6.qmd"
+
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+editor: visual

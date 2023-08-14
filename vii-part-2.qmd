@@ -1,0 +1,9 @@
+---
+title: "#2 Ten Finger Typing"
+author: "#VII - Hervy Qurrotul Ainur Rozi"
+format: "revealjs"
+logo: logo.svg
+footer: |
+    © 2023
+    <a href="https://hervyqa.id" target="_blank">Hervy Qurrotul A.</a>
+---

@@ -1,0 +1,134 @@
+---
+title: "#1 Privacy Policy of Internet"
+author: "#VII - Hervy Qurrotul Ainur Rozi"
+format: "revealjs"
+logo: logo.svg
+footer: |
+    © 2023
+    <a href="https://hervyqa.id" target="_blank">Hervy Qurrotul A.</a>
+---
+
+## Tujuan belajar {.smaller}
+
+Topik: Kebijakan privasi dalam berinternet
+
+1. Murid mampu menggunakan internet dengan bijaksana.
+1. Murid mampu bertanggung jawab dengan apa yang dilihat, dibaca, dibagikan melalui internet.
+1. Murid mampu melindungi dari kejahatan digital.
+1. Murid mampu mengetahui jenis virus dan cara memproteksinya.
+1. Murid mampu bertanggung jawab terhadap aplikasi apa saja yang dipasang di perangkatnya.
+
+## Manfaat belajar {.smaller}
+
+1. Pengguna merasa aman menggunakan internet tanpa ada tindak kejahatan.
+1. Mendapatkan informasi yang benar dan terhindar dari hoax.
+1. Mengetahui jenis pencurian data pengguna secara sembunyi-sembunyi.
+1. Mengetahui _big company_ yang berusaha menggunakan privasi pengguna.
+
+## Mengapa materi ini penting? {.smaller}
+
+Masalah perlindungan data privasi di dunia internet belakangan menjadi topik hangat yang dibahas di berbagai media massa maupun ruang-ruang publik di Indonesia. Masalah ini semakin mengemuka setelah [Edward Snowden](https://en.wikipedia.org/wiki/Edward_Snowden) mengungkap isu spionase yang dilakukan Badan Intelijen Australia terhadap sejumlah petinggi di negara-negara Asia Tenggara, termasuk Indonesia.
+
+# Data pribadi? {.smaller}
+
+Tak bisa dipungkiri, perkembangan teknologi ICT begitu pesat. Banyak keuntungannya, namun kerugiannya adalah ranah privasi mulai dilanggar. Data-data pribadi dengan mudah dikuasai pihak lain, diperjualbelikan, parahnya lagi bisa menjalar ke tindak kriminalitas.
+
+Data pribadi adalah setiap data tentang seseorang baik yang teridentifikasi dan atau dapat diidentifikasi secara tersendiri atau dikombinasi dengan informasi lainnya baik secara langsung maupun tidak langsung melalui sistem elektronik dan/atau nonelektronik.
+
+## Pengiriman data pribadi {.smaller}
+
+Melalui prinsip _send and received_ maka secara prinsip itu pula, si pengguna (user) memberikan suatu informasi untuk bisa mendapatkan sesuatu layanan. Pada kondisi demikian, seringkali orang menyebutnya sebagai bagian dari persetujuan. Namun, ada juga sebagian orang yang menyebutnya sebagai _fait acomply_ dari penyedia sistem kepada penggunanya.
+
+## Perlindungan data {.smaller}
+
+1. **Teliti Penggunaan Data**. Setiap orang harus mulai menerapkan standar saat membagikan data pribadi ke pihak lain. Sebab saat ini, banyak sekali permintaan data saat mengakses layanan apapun.
+1. **Menggunakan Password yang Aman**. Jangan menggunakan password degan kombinasi yang mudah seperti tanggal lahir. Sebab, data tanggal lahir seseorang begitu mudah didapat saat ini diinternet. Password harus dikombinasikan dengan huruf besar-kecil, simbol, angka, minimal 8 karakter. Misalnya `h3RvY99%`, `@m3l1477`.
+1. **Melakukan Verifikasi Dua Langkah**. Gunakan aplikasi verifikasi 2 langkah seperti Auth atu Google Authentificator.
+1. **Jangan Teralihkan**. Sejumlah celah yang dimanfaatkan oleh pelaku penipuan dalam mengincar para korban. Menurut dia, celah utama jelas yaitu pengguna yang tidak teliti.
+
+## Pencegahan pencurian data {.smaller}
+
+1. **Menggunakan aplikasi open source**. Misalnya **F-droid** dan **Aurora store** sebagai pengganti google store, **New pipe** pengganti youtube.
+1. **Menggunakan sistem yang diperbarui**. Jika ada peringatan untuk memperbarui (update) maka lakukanlah untuk melindungi dari celah keamanan dan bug.
+1. **Tidak membuka website yang illegal**. Kerap kali software ilegal mengandung virus. Misalnya game ilegal, film ilegal, aplikasi ilegal, iklan ilegal, dsb.
+
+## Alternatif _service_ {.smaller}
+
+| Service | Alternative |
+| :--- | :--- |
+| Google Drive | Owncloud/Nextcloud |
+| Gmail | Protonmail/tutanota |
+| Chrome | Firefox |
+| Play Store | Aurora Store |
+| Youtube | Newpipe |
+
+# Virus komputer
+
+Virus komputer merupakan program komputer yang dapat menggandakan atau menyalin dirinya sendiri dan menyebar dengan cara menyisipkan salinan dirinya ke dalam program atau dokumen lain. Virus komputer dapat dianalogikan dengan virus biologis yang menyebar dengan cara menyisipkan dirinya sendiri ke sel makhluk hidup. Virus komputer dapat merusak (misalnya dengan merusak data pada dokumen), membuat pengguna komputer merasa terganggu, maupun tidak menimbulkan efek sama sekali.
+
+## Jenis virus {.smaller}
+
+1. **Worm**: Menduplikatkan dirinya sendiri pada cakram keras.
+1. **Trojan**: Mengambil data pada komputer yang telah terinfeksi dan mengirimkannya pada pembuat trojan itu sendiri.
+1. **Backdoor**: Hampir sama dengan trojan. Namun, Backdoor bisanya menyerupai file yang baik-baik saja.
+1. **Spyware**: Virus yang memantau komputer yang terinfeksi.
+1. **Rogue**: program yang meniru program antivirus dan menampilkan aktivitas layaknya antivirus normal.
+
+## Jenis virus {.smaller}
+
+1. **Rootkit**: Virus yang bekerja menyerupai kerja sistem komputer yang normal. Virus ini dapat menyerupai program root komputer.
+1. **Polymorphic virus**: Virus yang gemar beubah-ubah agar tidak dapat terdeteksi.
+1. **Metamorphic virus**: Virus yang mengubah pengkodeannya sendiri agar lebih sulit dideteksi.
+1. **Virus ponsel**: Virus yang berjalan di telepon seluler.
+
+## Rekomendasi Antivirus {.smaller}
+
+:::: {.columns}
+
+::: {.column width="50%"}
+1. Avast Antivirus
+1. Norton Security
+1. AVG AntiVirus
+1. Bitdefender
+1. Avira
+1. Kaspersky
+1. McAfee Total Protection
+:::
+
+::: {.column width="50%"}
+1. Intego
+1. ESET Internet Security
+1. Bullguard
+1. Sophos Home
+1. Comodo
+1. Immunet Antivirus 
+:::
+
+::::
+
+# Pengertian Hoaks {.smaller}
+
+Hoaks adalah sebuah informasi rekayasa yang sengaja dilakukan untuk memanipulasi informasi yang sebenarnya. Tak hanya memanipulasi informasi, tetapi memutarbalikan fakta dari informasi asli dengan informasi rekayasa yang meyakinkan.
+
+## Ciri-Ciri Hoaks {.smaller}
+
+1. Informasi tersebar menyebabkan kebencian antarkalangan hingga menimbulkan permusuhan dan kecemasan pada masyarakat.
+1. Sumber informasi tidak jelas atau tidak ada yang tahu siapa penulisnya alias anonim, cenderung memojokkan pihak tertentu.
+1. Adanya informasi disampaikan secara fanatik akan suatu ideologi, kata-kata menimbulkan provokatif, dan tidak ada informasi maupun fakta yang aktual.
+1. Biasanya, penulisannya berantakan, seperti ada huruf kapital, huruf bold, banyaknya tanda seru, serta sumber tidak jelas atau tepercaya.
+
+# Any Question? {background-color="rgb(10, 132, 81)"}
+
+# Simple Homework
+
+None.
+
+# Next What?
+
+Materi minggu depan apa ya...
+
+* Topik: **Ten Finger Typing**
+* Deskripsi: Belajar & praktek mengetik dengan 10 jari.
+* Tempat: Laboratorium komputer
+
+[Back to home](/)

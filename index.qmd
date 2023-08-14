@@ -1,0 +1,21 @@
+---
+title: "Kumpulan Materi Teknologi"
+---
+
+### Pendahuluan
+
+_Bismillah._
+
+Situs ini merupakan kumpulan presentasi yang digunakan untuk memudahkan
+belajar teknologi, informasi dan telekomunikasi untuk siswa **Sekolah Menengah Pertama**.
+
+Semoga bermanfaat untuk para pengajar/pendidik dan siswa.
+Jika ada masukan/saran dan kritikan silakan menghubungi tautan profil penulis yang tertera.\
+
+_~Hervy Qurrotul A. R._
+
+### Cara penggunaan
+
+* Silakan lihat _sidebar_ kiri untuk daftar materi dan kelas.
+* Klik materi yang diinginkan.
+* Tautan materi langsung menuju presentasi.

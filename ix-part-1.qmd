@@ -1,0 +1,69 @@
+---
+title: "#1 Open Source Software Benefits"
+author: "#IX - Hervy Qurrotul Ainur Rozi"
+format: "revealjs"
+logo: logo.svg
+footer: |
+    © 2023
+    <a href="https://hervyqa.id" target="_blank">Hervy Qurrotul A.</a>
+---
+
+## Tujuan belajar {.smaller}
+
+Topik: "Keuntungan dari perangkat lunak terbuka"
+
+1. Murid mampu mengetahui perbedaan open source dan proprietary software.
+1. Murid mampu mengetahui keuntungan menggunakan open source software.
+1. Murid mampu mengetahui kelebihan dari open source software.
+1. Murid mampu mengendalikan jenis perangkat lunak terbuka (open source).
+1. Murid mampu berkontribusi dengan perangkat lunak terbuka (open source).
+
+## Manfaat belajar {.smaller}
+
+1. Pengguna tidak terbebani dengan penggunaan perangkat lunak terbuka.
+1. Pengguna mampu memaksimalkan dari tujuan perangkat lunak terbuka.
+1. Pengguna menghasilkan profit dari perangkat lunak terbuka.
+
+# Software?
+
+## Open Source Software? {.smaller}
+
+1. Open source adalah kode sumber atau kode dasar pada sebuah software yang biasanya tersedia untuk modifikasi dapat digunakan kembali.
+1. Kode open source merupakan bagian dari software yang sebagian besar pengguna tidak pernah melihat.
+1. Siapa pun dapat memanipulasi dan mengubah software sehingga program atau aplikasi dapat bekerja.
+
+Analogi untuk mendeskripsikan open source adalah ibarat resep.
+Resep open source akan dipublikasikan yang berarti bahwa siapapun dapat mengetahui bahan dan instruksi, dan bahkan menyesuaikan resep untuk meningkatkan rasa hidangan.
+
+## Proprietary Software? {.smaller background-color="rgb(237, 21, 21)"}
+
+Kebalikan dari software _open source_ adalah _proprietary_ software, contohnya adalah Microsoft, Apple, Google, Autodesk.
+
+## Kelebihan Open source software? {.smaller}
+
+## Kekurangan Open source software? {.smaller}
+
+# Any Question? {background-color="rgb(10, 132, 81)"}
+
+# Simple Homework {.smaller}
+
+* Cari salah satu contoh aplikasi open source.
+* Jelaskan fungsi dan tujuan softwarenya minimal 2 paragraf.
+* Tidak boleh sama antar siswa/i.
+* Dikumpulkan minggu depan.
+
+Sebagai contoh:
+
+* Nama siswa: ......
+* Nama software: ......
+* Fungsi software: ......
+
+# Next What?
+
+Materi minggu depan apa ya...
+
+* Topik: **Ten Finger Typing**
+* Deskripsi: Belajar mengetik dengan 10 jari.
+* Tempat: Laboratorium komputer
+
+[Back to home](/)

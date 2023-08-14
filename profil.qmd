@@ -1,0 +1,8 @@
+---
+title: "Tentang penulis"
+---
+
+**Class** merupakan catatan sederhana untuk mempelajari dasar komputer dan
+informatika untuk sekolah menengah pertama.
+
+Ditulis oleh [Hervy Qurrotul Ainur Rozi](https://hervyqa.id) dan kontributor.

@@ -1,0 +1,58 @@
+---
+title: "Perkenalan & Proses Belajar"
+author: "#VII - Hervy Qurrotul Ainur Rozi"
+format: "revealjs"
+logo: logo.svg
+footer: |
+    © 2023
+    <a href="https://hervyqa.id" target="_blank">Hervy Qurrotul A.</a>
+---
+
+# Profil
+
+_Bismillah,_
+
+Hi.. Nama lengkap **Hervy Qurrotul Ainur Rozi**.
+Bisa dipanggil Pak Hervy.
+Lahir di Kabupaten Pacitan pada 21 maret 1996.
+Sekarang tinggal bersama orang tua di Desa Kembangsri, Ngoro.
+Saat ini sedang belajar _Data science, Arificial intellegence,_ dan _Machine learning_.
+
+## Pengalaman {.smaller}
+
+* **2023 - Sekarang**: Tim Penjamin Mutu SMP Muhammadiyah 5 Ngoro.
+* **2023 - Sekarang**: Anggota Pimpinan Daerah Muhammadiyah Majelis Tabligh bidang Pustaka dan Digitalisasi.
+* **2022**: Koordinator [*Indonesia Linux Conference 2022*](https://ilc.opensuse.id/tentang) di UMSIDA.
+* **2020 - Sekarang**: Kontributor di paket [Void Linux](https://github.com/void-linux/void-packages/commits?author=hervyqa).
+* **2020**: Pemenang kontes desain template LibreOffice bersama [Adfinis Swiss](https://adfinis.com/en/blog/winners-of-the-libreoffice-template-contest-2020).
+* **2021 -  Sekarang**: Ketua [Pimpinan Cabang Pemuda Muhammadiyah (PCPM)](https://pcpmngoro.or.id) Ngoro.
+* **2019**: Pemenang kontes logo [OpenSUSE Asia Summit](https://news.opensuse.org/2019/07/09/opensuse-asia-summit-2019-logo-competition-winner) di Bali.
+* **2019** - Sekarang: Kreator dan developer [LangitKetujuh OS](https://langitketujuh.id).
+* **2019**: Ketua divisi desain [Komunitas Linux Surabaya](https://klas.or.id).
+* **2016**: Desainer Shell Echo Marathon di _Rizal Park, Filipina_.
+
+## Hobi & Pekerjaan
+
+* Aktif mengembangkan sistem operasi [LangitKetujuh OS](https://langitketujuh.id).
+* Penulis blog pribadi di [hervyqa.id](https://hervyqa.id).
+* Aktif di komunitas telegram [LangitKetujuh Community](https://t.me/langitketujuh_os).
+* Tertarik dengan Data science dan matematika terutama _Statistic, Linear Algebra_ dan _Probability_. Sehingga menjadi penulis di [Estasys](https://estasys.hervyqa.id).
+* Membaca buku tentang bahasa pemrograman _Python, Julia, R,_ dan _SQL_.
+
+## Komunikasi
+
+* WhatsApp: [+6281336762725](https://wa.me/+6281336762725)
+* Telegram: [@hervyqa](https://t.me/hervyqa)
+* Website: [hervyqa.id](https://hervyqa.id)
+* Linkedin: [linkedin.com/in/hervyqa](https://www.linkedin.com/in/hervyqa)
+* Mastodon: [datasci.social/@hervyqa](https://datasci.social/@hervyqa)
+* Email: [hervyqa@proton.me](mailto:hervyqa@proton.me) | [hervyqa@gmail.com](mailto:hervyqa@gmail.com)
+
+## Group Class
+
+* Telegram?
+* WhatsApp?
+
+## Any Question? {background-color="rgb(10, 132, 81)"}
+
+[Back to home](/)
