@@ -1,0 +1,4 @@
+- source: project
+  netlify:
+    - id: c4e95411-c27a-49b1-93b1-b1e6d52fd6d7
+      url: 'https://class.hervyqa.id'
