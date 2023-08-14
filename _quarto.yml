@@ -42,11 +42,11 @@ website:
       collapse-level: 2
       align: left
       contents:
-        - text: "Pendahuluan"
+        - text: "Home"
           href: "index.qmd"
-        - text: "Pengenalan dan Proses Belajar"
+        - text: "Introduction and Learning Process"
           href: "intro.qmd"
-        - section: "Kelas VII"
+        - section: "Class of VII"
           contents:
           - text: "#1 Privacy Policy of Internet"
             href: "vii-part-1.qmd"
@@ -70,7 +70,7 @@ website:
             href: "vii-part-10.qmd"
           - text: "#11 Computer Networks and the Internet"
             href: "vii-part-11.qmd"
-        - section: "Kelas VIII"
+        - section: "Class of VIII"
           contents:
           - text: "#1 Informatika dan Berfikir Komputasional"
             href: "viii-part-1.qmd"
@@ -89,7 +89,7 @@ website:
             # jamstack serverless
             # digital marketing
             # python basic
-        - section: "Kelas IX"
+        - section: "Class of IX"
           contents:
           - text: "#1 Open Source Software Benefits"
             href: "ix-part-1.qmd"
@@ -117,7 +117,6 @@ website:
             href: "mm-part-5.qmd"
           - text: "#6 Textile Design"
             href: "mm-part-6.qmd"
-
 
 format:
   html:
