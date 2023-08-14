@@ -26,37 +26,80 @@ Topik: "Keuntungan dari perangkat lunak terbuka"
 
 # Software?
 
-## Open Source Software? {.smaller}
+## Open Source Software {.smaller}
 
-1. Open source adalah kode sumber atau kode dasar pada sebuah software yang biasanya tersedia untuk modifikasi dapat digunakan kembali.
-1. Kode open source merupakan bagian dari software yang sebagian besar pengguna tidak pernah melihat.
-1. Siapa pun dapat memanipulasi dan mengubah software sehingga program atau aplikasi dapat bekerja.
+Open source adalah kode sumber atau kode dasar pada sebuah software yang biasanya tersedia untuk modifikasi dapat digunakan kembali.
+Siapa pun dapat memanipulasi dan mengubah software sehingga program atau aplikasi dapat bekerja.
 
 Analogi untuk mendeskripsikan open source adalah ibarat resep.
 Resep open source akan dipublikasikan yang berarti bahwa siapapun dapat mengetahui bahan dan instruksi, dan bahkan menyesuaikan resep untuk meningkatkan rasa hidangan.
 
-## Proprietary Software? {.smaller background-color="rgb(237, 21, 21)"}
+## Proprietary Software {.smaller}
 
-Kebalikan dari software _open source_ adalah _proprietary_ software, contohnya adalah Microsoft, Apple, Google, Autodesk.
+Sementara itu, ada jenis perangkat lunak yang bersifat tertutup dan tidak gratis yang disebut dengan closed source atau proprietary software. Perangkat lunak ini tidak mencari atau menginginkan orang lain untuk memodifikasi dan membagikan kodenya secara gratis, karena pemilik kode mengandalkan kodenya tersebut untuk mendapatkan penghasilan.
 
-## Kelebihan Open source software? {.smaller}
+Contohnya adalah Microsoft, Apple, Google, Autodesk.
+
+## Kelebihan dari Open source software {.smaller}
+
+Open source software tentunya menawarkan banyak kelebihan yang tidak bisa dimiliki oleh perangkat lunak proprietary. Kebanyakan, kelebihan software tipe ini berhubungan dengan masalah legalitas yang cukup penting di dalam dunia internet serta kebebasan dalam mengembangkannya. Apa saja kelebihannya?
+
+## Harga
+
+Yang pertama adalah harga. Jika dilihat dari harga, perangkat lunak open source jauh lebih terjangkau karena harganya yang relatif rendah.
+
+Berbeda dengan perangkat lunak dengan jenis closed source atau proprietary. Perangkat lunak ini memiliki beberapa rentang harga untuk bisa mendapatkan perangkat lunak tersebut.
+
+## Bebas untuk dikembangkan
+
+Ketika mendapatkan software tipe open source, pengguna (user) bisa bebas untuk melakukan apa saja dengannya tanpa perlu melanggar peraturan dari pengembang (developer). Sedangkan software proprietary, pengguna tidak memiliki akses kode sumbernya.
+
+Siapa pun dapat mengotak-atik software open source untuk memecahkan masalah atau memperbarui produk.
+
+## Legalitas
+
+Pengguna bebas untuk menggunakan software tersebut. Dan apa yang dilakukan semuanya legal. Tidak melanggar apapun di dalam hukum yang berlaku. Sedangkan software proprietary perlu berlangganan atau membelinya.
+
+## Contoh Open source software
+
+* Inkscape: Untuk menggambar vector.
+* Krita: Menggambar ilustrasi
+* GIMP: Untuk manipulasi foto.
+* Blender3D: Membuat animasi.
+* VScode: Teks editor.
+* Libreoffice: Perlengkapan perkantoran.
+* Kdenlive: Editing video.
+* Ubuntu: Sistem operasi.
+
+## Contoh Open source software
+
+![](img/libreoffice.webp)
 
 ## Kekurangan Open source software? {.smaller}
+
+* Pengguna perlu terbiasa dengan alat/tools jika baru migrasi dengan open source.
+* Pendukung finansial proyek open source kurang kuat sehingga mempengaruhi pengembangan produk.
 
 # Any Question? {background-color="rgb(10, 132, 81)"}
 
 # Simple Homework {.smaller}
 
-* Cari salah satu contoh aplikasi open source.
+* Cari salah satu contoh open source software. Misalnya dari jenis:
+  * open source operating system
+  * open source android apps
+  * open source desktop apps
+  * open source cli.
 * Jelaskan fungsi dan tujuan softwarenya minimal 2 paragraf.
 * Tidak boleh sama antar siswa/i.
 * Dikumpulkan minggu depan.
 
+# Simple Homework {.smaller}
+
 Sebagai contoh:
 
-* Nama siswa: ......
-* Nama software: ......
-* Fungsi software: ......
+* Nama siswa: Muhammad yusuf
+* Nama software: Libreoffice
+* Fungsi software: ...... (Minimal 2 paragraf)
 
 # Next What?
 
