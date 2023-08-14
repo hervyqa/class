@@ -123,12 +123,12 @@ Hoaks adalah sebuah informasi rekayasa yang sengaja dilakukan untuk memanipulasi
 
 None.
 
-# Next What?
+# What the Next?
 
 Materi minggu depan apa ya...
 
-* Topik: **Ten Finger Typing**
+* Topik: _**Ten Finger Typing**_
 * Deskripsi: Belajar & praktek mengetik dengan 10 jari.
-* Tempat: Laboratorium komputer
+* Tempat: Laboratorium komputer.
 
 [Back to home](/)

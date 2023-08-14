@@ -84,25 +84,25 @@ website:
             href: "viii-part-5.qmd"
           - text: "#6 Developer sebagai Penggerak Teknologi"
             href: "viii-part-6.qmd"
-            # !praktek kelas viii
-            # git versioning control
-            # jamstack serverless
-            # digital marketing
-            # python basic
         - section: "Class of IX"
           contents:
           - text: "#1 Open Source Software Benefits"
             href: "ix-part-1.qmd"
-          - text: "#2 Versioning control with Git"
+          - text: "#2 Programming Language with Python"
             href: "ix-part-2.qmd"
-          - text: "#3 Computer Science Jobs"
+          - text: "#3 Versioning control with Git"
             href: "ix-part-3.qmd"
-          - text: "#4 Programming Language"
+          - text: "#4 Computer Science Jobs"
             href: "ix-part-4.qmd"
           - text: "#5 IDE for programmer"
             href: "ix-part-5.qmd"
           - text: "#6 Framework Programming"
             href: "ix-part-6.qmd"
+            # !praktek kelas viii
+            # git versioning control
+            # jamstack serverless
+            # digital marketing
+            # python basic
         - section: "Multimedia Extra"
           contents:
           - text: "#1 Layout Book Design"

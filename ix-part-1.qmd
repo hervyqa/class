@@ -60,7 +60,7 @@ Siapa pun dapat mengotak-atik software open source untuk memecahkan masalah atau
 
 Pengguna bebas untuk menggunakan software tersebut. Dan apa yang dilakukan semuanya legal. Tidak melanggar apapun di dalam hukum yang berlaku. Sedangkan software proprietary perlu berlangganan atau membelinya.
 
-## Contoh Open source software
+## Contoh Open source software {.smaller}
 
 * Inkscape: Untuk menggambar vector.
 * Krita: Menggambar ilustrasi
@@ -74,6 +74,10 @@ Pengguna bebas untuk menggunakan software tersebut. Dan apa yang dilakukan semua
 ## Contoh Open source software
 
 ![](img/libreoffice.webp)
+
+## Contoh Open source software
+
+![](img/illustration.webp)
 
 ## Kekurangan Open source software? {.smaller}
 
@@ -101,12 +105,12 @@ Sebagai contoh:
 * Nama software: Libreoffice
 * Fungsi software: ...... (Minimal 2 paragraf)
 
-# Next What?
+# What the Next?
 
 Materi minggu depan apa ya...
 
-* Topik: **Ten Finger Typing**
-* Deskripsi: Belajar mengetik dengan 10 jari.
-* Tempat: Laboratorium komputer
+* Topik: **Programming Language with Python**
+* Deskripsi: _Belajar membuat program sederhana dengan bahasa python._
+* Tempat: Laboratorium komputer.
 
 [Back to home](/)
