@@ -1,0 +1,126 @@
+---
+title: "#1 Informatics and Computational Thinking"
+author: "#VIII - Hervy Qurrotul Ainur Rozi"
+format: "revealjs"
+logo: logo.svg
+footer: |
+    © 2023
+    <a href="https://hervyqa.id" target="_blank">Hervy Qurrotul A.</a>
+---
+
+## Tujuan belajar {.smaller}
+
+Topik: **Informatika dan Berfikir Komputasional**
+
+1. Murid mampu memecahkan masalah dengan _problem solving_.
+1. Murid mampu membuat _algoritma_.
+1. Murid mampu membuat langkah terbaik untuk diterapkan dalam suatu aplikasi.
+
+## Manfaat belajar {.smaller}
+
+1. Pengguna memiliki daya untuk problem solving (memecahkan suatu masalah).
+1. Pengguna mampu membuat algortma yang efektif.
+
+## Mengapa materi ini penting? {.smaller}
+
+Setiap program dibuat untuk memecahkan masalah dalam kehidupan sehari-hari.
+
+## Berfikir Komputasional {.smaller}
+
+Berpikir komputasional diasah melalui kegiatan _problem solving_. Berbeda
+dengan fase D (SMP) di mana siswa dilatih melalui persoalan sehari-hari
+yang solusinya belum dikaitkan dengan program komputer, pada fase E,
+persoalannya sudah terkait dengan struktur data diskrit dan solusinya ialah
+algoritma yang sudah siap untuk diterjemahkan menjadi program komputer
+setelah mendapat pengetahuan tentang bahasa pemrograman dari modul
+Algoritma dan Pemrograman. Siswa diharapkan mampu untuk memahami
+strategi algoritma standar untuk beberapa persoalan yang disajikan.
+
+## Kata Kunci
+
+Algoritma, strategi algoritmik, searching, sorting, stack, queue.
+
+## Kaitan dengan Bidang Pengetahuan Lain {.smaller}
+
+Berpikir komputasional menjadi landasan berpikir informatika, dan menjadi
+landasan mencari solusi informatika untuk semua bidang kehidupan. **BK**
+mengajak seseorang berpikir seperti computer scientist dalam menyelesaikan
+persoalan yang solusinya dikerjakan oleh komputer, atau yang dikenal dengan
+istilah _diprogram_.
+
+## Strategi Pembelajaran {.smaller}
+
+Berpikir komputasional (BK) akan melatih seseorang untuk berpikir seperti
+seorang ilmuwan informatika, bukan berpikir seperti komputer karena
+komputer adalah mesin. Kegiatan utama dalam BK ialah penyelesaian masalah
+(problem solving) untuk menemukan solusi yang efisien, efektif, dan optimal
+sehingga solusinya bisa dijalankan oleh manusia maupun mesin.
+
+## 4 fondasi berpikir komputasional {.smaller}
+
+1. **Dekomposisi dan formulasi persoalan** sedemikian rupa sehingga dapat
+diselesaikan dengan cepat dan efisien serta optimal dengan menggunakan
+komputer sebagai alat bantu. Persoalan yang sulit apalagi besarakan
+menjadi mudah jika diselesaikan sebagian-sebagian secara sistematis.
+1. **Abstraksi**, yaitu menyarikan bagian penting dari suatu permasalahan dan
+mengabaikan yang tidak penting sehingga memudahkan fokus kepada solusi.
+1. **Algoritma**, yaitu menuliskan otomasi solusi melalui berpikir algoritmik
+(langkah-langkah yang terurut) untuk mencapai suatu tujuan (solusi).
+Jika langkah yang runtut ini diberikan ke komputer dalam bahasa yang
+dipahami oleh komputer, kalian akan dapat “memerintah” komputer
+mengerjakan langkah tersebut.
+1. **Pengenalan pola persoalan**, generalisasi serta mentransfer proses
+penyelesaian persoalan ke persoalan lain yang sejenis.
+
+# Algoritma
+
+## Studi kasus pengiriman barang {.smaller .scrollable}
+
+Contoh algortima dalam studi kasus pengiriman barang.
+
+1. Pelaku: Kustomer, Admin, Kurir, Sistem, Barang, Penerima
+1. Algoritma:
+  * Kustomer menyiapkan barang yang sudah siap dikirim dengan kotak pengiriman.
+  * Kustomer pergi ke tempat pengiriman barang yang sudah tersedia.
+  * Admin memeriksa isi barang yang akan dikirim.
+  * Admin menimbang berat barang yang akan dikirimkan.
+  * Admin memasukkan data kustomer ke sistem.
+  * Sistem menentukan biaya berdasarkan tujuan pengiriman barang dan membuat resi.
+  
+## Studi kasus pengiriman barang {.smaller .scrollable}
+
+Selanjutnya:
+ 
+  * Sistem mencetak nota harga sesuai tujuan.
+  * Admin memberikan nota kepada kustomer.
+  * Kustomer membayar harga yang sudah ditentukan.
+  * Barang yang sudah siap akan diantar oleh kurir.
+  * Kurir Mengirim barang sesuai tujuan.
+  * Barang diterima oleh penerima.
+  * Kurir mengkorfirmasi barang sudah diterima oleh sistem.
+  * Pengirim mendapat konfirmasi barang sudah sampai ditujuan.
+
+## Bagaimana _Computational Thinking_ dalam kasus ini {.smaller}
+
+1. Algoritma aplikasi senam dirumah selama pandemi.
+1. Algoritma aplikasi pembelian baju online di suatu marketplace.
+1. Algoritma aplikasi pembelian makanan _seafood_ online disuatu restoran.
+1. Algoritma aplikasi kebersihan ruang kelas untuk sekolah atau kamar rumah.
+1. Algoritma aplikasi pembibitan dan perawatan tanaman.
+
+# Any Question? {background-color="rgb(10, 132, 81)"}
+
+# Simple Homework
+
+Melanjutkan pembuatan algoritma yang lebih detail dalam studi kasus sebelumnya yang sudah dibuat.
+Semakin efektif maka semakin baik.
+
+# What the Next?
+
+Materi minggu depan apa ya...
+
+* Topik: _**Information Technology and Communication**_
+* Deskripsi: Belajar mengenai teknologi informasi dan komunikasi.
+* Tempat: Laboratorium komputer.
+
+[Back to home](/)

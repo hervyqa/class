@@ -1,0 +1,52 @@
+---
+title: "#2 Teknologi Informasi dan Komunikasi"
+author: "#VIII - Hervy Qurrotul Ainur Rozi"
+format: "revealjs"
+logo: logo.svg
+footer: |
+    © 2023
+    <a href="https://hervyqa.id" target="_blank">Hervy Qurrotul A.</a>
+---
+
+## Tujuan belajar {.smaller}
+
+Topik: Kebijakan privasi dalam berinternet
+
+1. Murid mampu 
+
+## Manfaat belajar {.smaller}
+
+1. Pengguna 
+
+## Mengapa materi ini penting? {.smaller}
+
+## Rekomendasi Antivirus {.smaller}
+
+:::: {.columns}
+
+::: {.column width="50%"}
+1. Avast Antivirus
+
+:::
+
+::: {.column width="50%"}
+1. Immunet Antivirus 
+:::
+
+::::
+
+# Any Question? {background-color="rgb(10, 132, 81)"}
+
+# Simple Homework
+
+None.
+
+# What the Next?
+
+Materi minggu depan apa ya...
+
+* Topik: _**Ten Finger Typing**_
+* Deskripsi: Belajar & praktek mengetik dengan 10 jari.
+* Tempat: Laboratorium komputer.
+
+[Back to home](/)

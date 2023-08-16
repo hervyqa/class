@@ -72,7 +72,7 @@ website:
             href: "vii-part-11.qmd"
         - section: "Class of VIII"
           contents:
-          - text: "#1 Informatika dan Berfikir Komputasional"
+          - text: "#1 Informatics and Computational Thinking"
             href: "viii-part-1.qmd"
           - text: "#2 Teknologi Informasi dan Komunikasi"
             href: "viii-part-2.qmd"
