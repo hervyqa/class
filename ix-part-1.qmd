@@ -10,7 +10,7 @@ footer: |
 
 ## Tujuan belajar {.smaller}
 
-Topik: "Keuntungan dari perangkat lunak terbuka"
+Topik: **Keuntungan dari perangkat lunak terbuka**
 
 1. Murid mampu mengetahui perbedaan open source dan proprietary software.
 1. Murid mampu mengetahui keuntungan menggunakan open source software.

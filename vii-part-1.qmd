@@ -10,7 +10,7 @@ footer: |
 
 ## Tujuan belajar {.smaller}
 
-Topik: Kebijakan privasi dalam berinternet
+Topik: **Kebijakan privasi dalam berinternet**
 
 1. Murid mampu menggunakan internet dengan bijaksana.
 1. Murid mampu bertanggung jawab dengan apa yang dilihat, dibaca, dibagikan melalui internet.

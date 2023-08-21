@@ -7,3 +7,109 @@ footer: |
     © 2023
     <a href="https://hervyqa.id" target="_blank">Hervy Qurrotul A.</a>
 ---
+
+# Tujuan belajar
+
+Topik: **Praktek: Mengetik dengan 10 Jari**
+
+1. Murid mampu menggunakan keyboard dengan baik dan benar.
+1. Murid mampu menggunakan keyboard dengan efisien sehingga mempercepat pekerjaan dokumen.
+1. Murid mampu latihan secara mandiri secara berkala.
+
+# Manfaat belajar
+
+1. Pengguna dapat memaksimalkan 10 jarinya.
+1. Pengguna dapat mengurangi kesalahan ketik atau _typo_.
+
+# Mengapa materi praktek ini penting?
+
+Menjadi lebih produktif, mengetik lebih cepat juga bisa meningkatkan kinerja otak.
+
+# Metode {.smaller}
+
+Metode mengetik 10 jari adalah teknik yang sangat manjur untuk menggunakan keyboard komputer pengguna secara efisien. Dengan beberapa latihan dan posisi jari yang benar, pengguna dapat mengetik tanpa perlu melihat pada keyboard.
+
+# Posisi jari
+
+Pastikan jari telunjuk memposisikan huruf F dan J.
+
+![](img/finger-position.webp)
+
+---
+
+## Posisi jari kanan
+
+![](img/typing-map.webp)
+
+1. Ibu Jari: Spasi
+1. Telunjuk: Y, H, N, U, **J**, M
+1. Tengah:  I, K, comma
+1. Jari Manis: O, L, .
+1. Jari Kelingking: P, ;, /
+
+---
+
+## Posisi jari kiri
+
+![](img/typing-map.webp)
+
+1. Ibu Jari: Spasi
+1. Telunjuk: R, **F**, V, T, G, B.
+1. Tengah: E, D, C
+1. Jari Manis: W, S, X
+1. Jari Kelingking: Q, A, Z
+
+# Tips Mengetik {.smaller}
+
+**Jangan Mencoba Untuk Menjadi Cepat, Tetapi Tepat**
+
+Saat belajar mengetik dengan 10 jari tentu ingin secepatnya dapat mengetik dengan cepat. Jangan terpengaruh dengan pikiran ini, yang harus difokuskan adalah mencoba mengetik dengan tepat terlebih dahulu. Karena jika sudah bisa mengetik dengan tepat, kecepatan akan meningkat dengan sendirinya.
+
+# Tips Mengetik {.smaller}
+
+**Posisi Postur Tubuh Yang Benar**
+
+Memposisikan diri dengan benar di hadapan keyboard penting untuk mengetik semua huruf dengan kecepatan tinggi menggunakan 10 jari. Selain itu, postur yang benar dapat mencegah masalah fisik yang akan terjadi dikemudian hari.
+
+# Tips Mengetik {.smaller}
+
+**Coba Mengetik Tanpa Melihat Keyboard**
+
+Setelah sudah mengetahui posisi jari yang tepat, posisi tubuh yang benar, kini saatnya belajar mengetik tanpa melihat. Mula-mula dapat mencoba menggerakkan jari-jari saat melihat, menggunakan memori visual. Setelah menguasainya, cobalah untuk menerapkannya tetapi sekarang tanpa melihat apa-apa. Itu tadi tip cara mengetik 10 jari yang mungkin bisa anda terapkan.
+
+Faktanya, melihat keyboard saat mengetik bisa mengurangi efisiensi. Biasakanlah mengetik tanpa melihat keyboard sekaligus mengingat posisi setiap huruf.
+
+# Daftar software {.smaller}
+
+## Ktouch (linux) {.smaller}
+
+<https://apps.kde.org/ktouch>
+
+![](img/ktouch.webp)
+---
+
+## Rapid Typing Tutor (windows) {.smaller}
+
+<https://rapidtyping.com>
+
+![](img/rapid-typing.webp)
+
+# Any Question? {background-color="rgb(10, 132, 81)"}
+
+# Simple Homework
+
+* Buka [rapidtyping.com/online-typing-test.html](https://rapidtyping.com/online-typing-test.html)
+* Ganti nama "Typist" menjadi nama sendiri.
+* Pilih typing test: 200-300 chars
+* Klik start typing test.
+* Jika sudah selesai catat nilai CPM-nya. Tunjukkan ke pak Hervy.
+
+# What the Next?
+
+Materi minggu depan apa ya...
+
+* Topik: _**Office and Productifity**_
+* Deskripsi: Belajar & praktek di perangkat lunak perkantoran.
+* Tempat: Laboratorium komputer.
+
+[Back to home](/)
