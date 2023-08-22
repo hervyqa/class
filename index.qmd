@@ -1,5 +1,5 @@
 ---
-title: "Kumpulan Materi Teknologi"
+title: "Kumpulan Materi TIK dan Pemrograman"
 ---
 
 ### Pendahuluan

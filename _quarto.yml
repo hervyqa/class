@@ -88,7 +88,7 @@ website:
           contents:
           - text: "#1 Open Source Software Benefits"
             href: "ix-part-1.qmd"
-          - text: "#2 Programming Language with Python"
+          - text: "#2 Programming Language with Python Basic"
             href: "ix-part-2.qmd"
           - text: "#3 Versioning control with Git"
             href: "ix-part-3.qmd"
