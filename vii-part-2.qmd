@@ -108,7 +108,7 @@ Faktanya, melihat keyboard saat mengetik bisa mengurangi efisiensi. Biasakanlah 
 
 Materi minggu depan apa ya...
 
-* Topik: _**Office and Productifity**_
+* Topik: _**Office and Productivity**_
 * Deskripsi: Belajar & praktek di perangkat lunak perkantoran.
 * Tempat: Laboratorium komputer.
 

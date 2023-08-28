@@ -1,5 +1,5 @@
 ---
-title: "#3 Office and Productifity"
+title: "#3 Office and Productivity"
 author: "#VII - Hervy Qurrotul Ainur Rozi"
 format: "revealjs"
 logo: logo.svg
@@ -7,3 +7,150 @@ footer: |
     © 2023
     <a href="https://hervyqa.id" target="_blank">Hervy Qurrotul A.</a>
 ---
+
+# Tujuan belajar
+
+Topik: **Teori - Mengenal perkakas perkantoran dan produktifitas**
+
+1. Murid mampu mengetahui jenis-jenis perangkat lunak perkantoran.
+1. Murid mampu mengetahui fungsi dari perangkat lunak perkantoran.
+
+# Manfaat belajar
+
+1. Pengguna terbiasa menggunakan perangkat lunak berbasis yang terbuka (open source).
+1. Pengguna tidak dipaksa menggunakan perangkat lunak proprietary karena tidak menguasai cara penggunaannya.
+1. Murid mampu mengetahui manfaat moral dari menggunakan perangkat lunak terbuka.
+
+# Mengapa materi ini penting?
+
+Bertujuan untuk sosialiasi perangkat lunak perkantoran yang menjunjung tinggi kebebasan dan privasi pengguna.
+
+# Jenis perangkat lunak perkantoran?
+
+## Microsoft Office {.smaller}
+
+![](img/office_logos.webp)
+
+<https://www.microsoft.com/id-id/microsoft-365>
+
+## Microsoft Office
+
+1. Word: Membuat dokumen proposal
+1. Excel: Pengolah angka
+1. Powerpoint: Presentasi
+
+## Libre Office {.smaller}
+
+![](img/libreoffice_logos.webp)
+
+<https://www.libreoffice.org>
+
+## Libre Office
+
+1. Writer: Membuat dokumen proposal
+1. Calc: Pengolah angka
+1. Impress: Presentasi
+1. Draw: Pengolah gambar
+1. Base: Pengolah basis data
+
+## Only Office {.smaller}
+
+![](img/onlyoffice_logos.webp)
+
+<https://www.onlyoffice.com>
+
+## Only Office
+
+1. Document editor: Membuat dokumen proposal
+1. Spreadsheet editor: Pengolah angka
+1. Presentation editor: Presentasi
+
+## Collabora Office {.smaller}
+
+![](img/collabora_logos.webp)
+
+<https://www.collaboraoffice.com>
+
+# Any Question? {background-color="rgb(10, 132, 81)"}
+
+# My Story {.smaller}
+
+## 2019
+
+Pernah menjadi relawan di OpenSUSE Summit Asia di Bali. Saat itu sebagai salah satu desainer yang mengatur pembuatan template presentasi dengan libreoffice.
+
+---
+
+![](img/greenhex-1.webp)
+---
+
+![](img/greenhex-2.webp)
+---
+
+![](img/demaio.webp)
+
+---
+
+![](img/opensuse_hervy.webp)
+
+---
+
+![](img/opensuse.webp)
+
+---
+
+## 2020
+
+Pernah terpilih menjadi 6 terbaik dalam lomba membuat desain presentasi menggunakan **libreoffice impress** di Adfinis salah satu perusahaan di Swiss.
+
+<https://adfinis.com/en/blog/winners-of-the-libreoffice-template-contest-2020>
+
+---
+
+![](img/zam-zam.webp)
+
+---
+
+![](img/adfinis_winner.webp)
+
+---
+
+![](img/adfinis_mail.webp)
+
+# Event
+
+## LOUCA 2023
+
+:::: {.columns}
+
+::: {.column width="50%"}
+![](img/louca_ubuntu.webp)
+:::
+
+::: {.column width="50%"}
+![](img/louca_lo.webp)
+:::
+
+::::
+
+<https://louca.id>
+
+# Any Question? {background-color="rgb(10, 132, 81)"}
+
+# Simple Homework
+
+* Buka [rapidtyping.com/online-typing-test.html](https://rapidtyping.com/online-typing-test.html)
+* Ganti nama "Typist" menjadi nama sendiri.
+* Pilih typing test: 200-300 chars
+* Klik start typing test.
+* Jika sudah selesai catat nilai CPM-nya. Tunjukkan ke pak Hervy.
+
+# What the Next?
+
+Materi minggu depan apa ya...
+
+* Topik: _**Office and Productifity**_
+* Deskripsi: Belajar & praktek di perangkat lunak perkantoran.
+* Tempat: Laboratorium komputer.
+
+[Back to home](/)
