@@ -139,18 +139,8 @@ Pernah terpilih menjadi 6 terbaik dalam lomba membuat desain presentasi mengguna
 
 # Simple Homework
 
-* Buka [rapidtyping.com/online-typing-test.html](https://rapidtyping.com/online-typing-test.html)
-* Ganti nama "Typist" menjadi nama sendiri.
-* Pilih typing test: 200-300 chars
-* Klik start typing test.
-* Jika sudah selesai catat nilai CPM-nya. Tunjukkan ke pak Hervy.
-
-# What the Next?
-
-Materi minggu depan apa ya...
-
-* Topik: _**Office and Productifity**_
-* Deskripsi: Belajar & praktek di perangkat lunak perkantoran.
-* Tempat: Laboratorium komputer.
+1. Apa saja perbedaan Microsoft office dan LibreOffice?
+1. Mengapa harus menggunakan LibreOffice?
+1. Apa yang harus dilakukan jika menemui kendala dalam menggunakan Libreoffice?
 
 [Back to home](/)
