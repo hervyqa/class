@@ -219,8 +219,8 @@ Plihan beberapa spesialisasi dalam pekerjaan ini, seperti:
 
 # Simple Homework {.smaller}
 
-1. Deklarasi variable bilangan1 dengan 20, dan bilangan2 dengan 10 dan tampilkan hasil pengurangan bilangan1 & bilangan 2.
-1. Nia membeli baju dan mendapatkan potongan 10% dari harga baju 250.000. Hitung jumlah uang yang harus dibayar nia setelah potongan. Deklarasikan dengan bahasa python.
+1. Pilih salah satu jenis pekerjaan dalam bidang informatika lalu jelaskan tugas dan tujuannya secara mendetail.
+1. Dari pekerjaan yang dipilih sebelumnya di nomer 1, bahasa pemrograman apa yang harus dikuasai agar menjadi profesional dalam bidangnya?
 
 # What the Next?
 
