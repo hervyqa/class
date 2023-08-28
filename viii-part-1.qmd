@@ -119,8 +119,8 @@ Semakin efektif maka semakin baik.
 
 Materi minggu depan apa ya...
 
-* Topik: _**Information Technology and Communication**_
-* Deskripsi: Belajar mengenai teknologi informasi dan komunikasi.
+* Topik: _**CLI and GUI based technology**_
+* Deskripsi: Belajar mengenai teknologi informasi dan komunikasi yang berbasis CLI dan GUI.
 * Tempat: Laboratorium komputer.
 
 [Back to home](/)

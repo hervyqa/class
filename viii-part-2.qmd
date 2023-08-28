@@ -1,5 +1,5 @@
 ---
-title: "#2 Teknologi Informasi dan Komunikasi"
+title: "#2 CLI and GUI based technology"
 author: "#VIII - Hervy Qurrotul Ainur Rozi"
 format: "revealjs"
 logo: logo.svg
