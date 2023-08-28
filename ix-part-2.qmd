@@ -207,7 +207,7 @@ Pada Python, tipe data string (`str`) digunakan untuk menyimpan data teks. Tipe 
 
 Materi minggu depan apa ya...
 
-* Topik: **Programming Language with Python 2**
+* Topik: **Computer Science Jobs**
 * Deskripsi: _Belajar membuat program sederhana konversi suhu dengan bahasa python (lanjutan)._
 * Tempat: Laboratorium komputer.
 
