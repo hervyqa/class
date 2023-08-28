@@ -88,22 +88,9 @@ Pengguna bebas untuk menggunakan software tersebut. Dan apa yang dilakukan semua
 
 # Simple Homework {.smaller}
 
-* Cari salah satu contoh open source software. Misalnya dari jenis:
-  * open source operating system
-  * open source android apps
-  * open source desktop apps
-  * open source cli.
-* Jelaskan fungsi dan tujuan softwarenya minimal 2 paragraf.
-* Tidak boleh sama antar siswa/i.
-* Dikumpulkan minggu depan.
-
-# Simple Homework {.smaller}
-
-Sebagai contoh:
-
-* Nama siswa: Muhammad yusuf
-* Nama software: Libreoffice
-* Fungsi software: ...... (Minimal 2 paragraf)
+* Mengapa harus menggunakan Libreoffice?
+* Apa perbedaan Microsoft office dengan Libreoffice?
+* Apa yang harus dilakukan saat ada kendala atau kesulitan dalam menggunakan Libreoffice?
 
 # What the Next?
 
