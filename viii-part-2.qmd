@@ -1,5 +1,5 @@
 ---
-title: "#2 CLI and GUI based technology"
+title: "#2 CLI and GUI Universal Applications"
 author: "#VIII - Hervy Qurrotul Ainur Rozi"
 format: "revealjs"
 logo: logo.svg
@@ -10,32 +10,163 @@ footer: |
 
 ## Tujuan belajar {.smaller}
 
-Topik: Kebijakan privasi dalam berinternet
+Topik: **CLI dan GUI Aplikasi Universal**
 
-1. Murid mampu 
+1. Murid mampu mengetahui perbedaan antara perangkat lunak CLI dan GUI.
+1. Murid mampu mengetahui jenis-jenis aplikasi CLI dan GUI.
 
 ## Manfaat belajar {.smaller}
 
-1. Pengguna 
+1. Pengguna mampu menggunakan aplikasi CLI dan GUI.
+1. Pengguna mampu mengetahui mengapa adanya aplikasi CLI dan GUI.
+1. Pengguna mengetahui pentingnya menggunakan aplikasi CLI.
 
 ## Mengapa materi ini penting? {.smaller}
 
-## Rekomendasi Antivirus {.smaller}
+Banyak jenis aplikasi CLI yang sering digunakan oleh ahli informatika, aplikasi tersebut lebih ringan dan tidak membutuhkan tampilan grafis agar dapat berjalan.
+
+Dengan mempelajari aplikasi CLI maka pekerjaan dalam bidang informatika lebih mudah diselesaikan dengan cepat.
+
+# User Interface {.smaller}
+
+UI (*User Interface*) merupakan istilah yang dipergunakan untuk menentukan bagaimana seorang pengguna berinteraksi dengan perangkat elektronik yang digunakan, khususnya perangkat komputer. CLI dan GUI merupakan bagian dari berbagai jenis user interface atau yang bisa disebut juga dengan antarmuka pengguna.
+
+CLI dan GUI adalah dua jenis UI yang berbeda dalam hal grafik yang digunakan pada sistem operasi.
+
+# CLI {.smaller}
 
 :::: {.columns}
 
 ::: {.column width="50%"}
-1. Avast Antivirus
+CLI atau *Command Line Interface* adalah program yang memungkinkan memerintahkan komputer dengan cara mengetik perintah teks agar dapat melakukan tugas tertentu. Namun penggunaan CLI tidak selalu diterima dengan baik sehingga jarang yang menggunakannya.
 
 :::
 
 ::: {.column width="50%"}
-1. Immunet Antivirus 
+
+![](img/linux-cli.webp)
+:::
+
+::::
+
+# CLI {.smaller}
+
+* Kebanyakan pengguna enggan menggunakan CLI karena berpikir bahwa CLI hanya digunakan oleh mereka yang merupakan pengguna tingkat lanjut. Padahal sesungguhnya tidak demikian. CLI dapat juga digunakan oleh semua jenis pengguna.
+* Penerapan CLI pada komputer pribadi sudah sangat jarang. Hal ini terjadi karena banyak pengguna yang lebih memilih menggunakan GUI.
+* CLI pada akhirnya sering digunakan pengguna profesional untuk mengerjakan berbagai tugas komputer tertentu. Seperti mengelola dan mengurus server jaringan, melakukan hosting web, berbagai keperluan administrasi, keamanan dan masih banyak lainnya.
+
+# GUI {.smaller}
+
+:::: {.columns}
+
+::: {.column width="50%"}
+GUI *Graphic User Interface* merupakan salah satu jenis antarmuka pengguna (user interface) yang dalam penerapannya menggunakan metode interaksi pada perangkat elektronik secara grafis tidak menggunakan perintah berupa teks antara pengguna dengan komputer.
+
+:::
+
+::: {.column width="50%"}
+
+![](img/gui.webp)
 :::
 
 ::::
 
 # Any Question? {background-color="rgb(10, 132, 81)"}
+
+# Practicum
+
+## Memasang UserLand {.smaller}
+
+Memasang UserLand sebagai terminal emulator di Android
+
+1. Buka play store lalu pasang `Userland`.
+1. Pilih Ubuntu > Terminal
+
+## Memperbarui sistem {.smaller}
+
+Setelah termux terpasang di handphone, perlu diperbarui sistemnya.
+
+**Jalankan perintah update.**
+
+``` markdown
+sudo apt update
+```
+
+**Jalankan perintah upgrade.**
+
+``` markdown
+sudo apt upgrade
+```
+
+## Perintah dasar {.smaller}
+
+#### Memasang aplikasi
+
+Praktek kali ini memasang aplikasi python sebagai salah satu bahasa pemrograman.
+
+Cara memasang `Python` yaitu dengan perintah:
+
+``` markdown
+sudo apt install python3
+```
+
+Tekan `y` untuk menkonfirmasi lalu enter.
+
+Contoh lain, memasang aplikasi `htop`.
+
+``` markdown
+sudo apt install htop
+```
+
+## Perintah dasar {.smaller}
+
+**Menghapus aplikasi**
+
+Memasang aplikasi cli `htop`. Perintahnya:
+
+``` markdown
+sudo apt remove htop
+```
+
+Tekan `y` untuk mengkonfirmasi lalu enter.
+
+## Perintah dasar {.smaller}
+
+**Mengetahui lokasi `user` saat ini.**
+
+``` markdown
+pwd
+```
+
+**Melihat isi direktori saat ini.**
+
+``` markdown
+ls
+```
+
+**Membuat folder baru.**
+
+``` markdown
+mkdir kelas8
+```
+
+**Masuk ke folder.**
+
+``` markdown
+cd kelas8
+```
+
+**Kembali ke folder sebelumnya.**
+
+``` markdown
+cd ..
+```
+
+**Menghapus folder.**
+
+``` markdown
+rmdir kelas8
+```
 
 # Simple Homework
 
@@ -45,8 +176,8 @@ None.
 
 Materi minggu depan apa ya...
 
-* Topik: _**Ten Finger Typing**_
-* Deskripsi: Belajar & praktek mengetik dengan 10 jari.
+* Topik: _**Computer System**_
+* Deskripsi: Mempelajari sistem komputer berupa sistem operasi dan perangkat lunak.
 * Tempat: Laboratorium komputer.
 
 [Back to home](/)
