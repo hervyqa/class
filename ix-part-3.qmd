@@ -226,7 +226,7 @@ Plihan beberapa spesialisasi dalam pekerjaan ini, seperti:
 
 Materi minggu depan apa ya...
 
-* Topik: **Programming Language with Python 2**
+* Topik: **Programming Language with Python (part 2)**
 * Deskripsi: _Belajar membuat program sederhana konversi suhu dengan bahasa python (lanjutan)._
 * Tempat: Laboratorium komputer.
 

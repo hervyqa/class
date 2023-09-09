@@ -143,4 +143,12 @@ Pernah terpilih menjadi 6 terbaik dalam lomba membuat desain presentasi mengguna
 1. Mengapa harus menggunakan LibreOffice?
 1. Apa yang harus dilakukan jika menemui kendala dalam menggunakan Libreoffice?
 
+# What the Next?
+
+Materi minggu depan apa ya...
+
+* Topik: _**Web Development HTML**_
+* Deskripsi: Belajar & praktek di perangkat lunak perkantoran.
+* Tempat: Laboratorium komputer.
+
 [Back to home](/)

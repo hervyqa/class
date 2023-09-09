@@ -1,0 +1,46 @@
+---
+title: "#4 Programming Language with Python (part 2)"
+author: "#IX - Hervy Qurrotul Ainur Rozi"
+format: "revealjs"
+logo: logo.svg
+footer: |
+    © 2023
+    <a href="https://hervyqa.id" target="_blank">Hervy Qurrotul A.</a>
+---
+
+# Tujuan belajar
+
+Topik: **Praktik - Pemrograman dengan bahasa Python**
+
+1. Murid mampu mengetahui bahasa python.
+1. Murid mampu membuat berkas `.py` di kode editor.
+
+# Manfaat belajar
+
+1. Pengguna bisa membuat program python dasar.
+
+# Mengapa materi ini penting?
+
+Bertujuan untuk melatih kemampuan siswa-siswi dalam mengembangkan suatu program dari bahasa python.
+
+# Praktik
+
+1. Buka playstore.
+1. Install aplikasi `WildLearn` sebagai kumpulan materi pemrograman.
+1. Install aplikasi `Pycode` sebagai kode editor.
+
+## WildLearn
+
+![](img/wildlearn.webp)
+
+## PyCode
+
+![](img/pycode.webp)
+
+# Any Question? {background-color="rgb(10, 132, 81)"}
+
+# Simple Homework
+
+1. Selesaikan materi di wildlearn dari `Getting started` sampai `Control Flow`?
+
+[Back to home](/)
