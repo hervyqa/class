@@ -1,5 +1,5 @@
 ---
-title: "#4 Introduction Web Browser"
+title: "#5 Introduction Web Browser"
 author: "#VII - Hervy Qurrotul Ainur Rozi"
 format: "revealjs"
 logo: logo.svg
@@ -96,7 +96,7 @@ DuckDuckGo adalah alternatif browser terbaik untuk perangkat mobile berbasis And
 
 # Any Question? {background-color="rgb(10, 132, 81)"}
 
-# Simple Homework
+# Simple Labwork
 
 1. Apa saja manfaat dari web browser?
 1. Apa web browser favoritmu? jelaskan kelebihan dan kekurangannya?
