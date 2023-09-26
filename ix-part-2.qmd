@@ -1,5 +1,5 @@
 ---
-title: "#2 Programming Language with Python Basic"
+title: "#3 Computer Science Jobs"
 author: "#IX - Hervy Qurrotul Ainur Rozi"
 format: "revealjs"
 logo: logo.svg
@@ -10,205 +10,224 @@ footer: |
 
 ## Tujuan belajar {.smaller}
 
-Topik: **Keuntungan dari perangkat lunak terbuka**
+Topik: **Pekerjaan dalam bidang Ilmuan Komputer**
 
-1. Murid mampu mengetahui tipe data python.
-1. Murid mampu menggunakan bahasa pemrograman.
+1. Murid mampu mengetahui prospek dalam informatika.
+1. Murid mampu mengetahui bahasa pemrograman.
 
 ## Manfaat belajar {.smaller}
 
-1. Pengguna bisa membuat program sederhana dari bahasa pemrograman python.
-2. Pengguna bisa membuat program kelulusan nilai dengan if-else.
+1. Menambah wawasan pekerjaan dalam bidang informatika.
+1. Menggali potensi diri dalam bidang pemrograman.
 
-# Bahasa Python?
+# Software engineer {.smaller}
 
-## Python {.smaller}
+Pekerjaan ini mengaplikasikan prinsip-prinsip pengelolaan dan optimalisasi software.
 
-Python adalah bahasa pemrograman yang ditujukan untuk general-purpose programming dan termasuk dalam kategori high-level programming language.
+Hal itu seperti analisis teknik informatika dan matematika dalam desain, development, maintenance, hingga *testing software* komputer atau device lain.
 
-Sebagai general-purpose programming language, Python digunakan untuk berbagai macam permasalahan seperti: pengembangan aplikasi web ataupun mobile, data science, dll.
+Jenis-jenis software yang dibuat oleh seorang software engineer bermacam-macam, seperti sistem operasi dan *network distribution*, serta software untuk compiler yang mengonversi program untuk eksekusi pada komputer.
 
-Python masuk ke dalam kategori **high-level programming language** dikarenakan bahasa pemrograman Python yang mudah untuk dibaca dan dituliskan oleh manusia.
+# IT consultant {.smaller}
 
-Bahasa  pemrograman  Python  diciptakan  oleh **Guido van Rossum** dan pertama kali diperkenalkan pada tahun 1991 sebagai sebuah proyek open-source.
+IT consultant adalah salah satu peluang karier bagi lulusan teknik informatika. Profesi ini bertugas untuk menerapkan strategi teknologi informasi dalam perencanaan, pelaksanaan, hingga evaluasi di sebuah perusahaan.
 
-Sifat **open-source** dari Python mengartikan bahwa setiap orang dapat mengembangkan program komputer dengan menggunakan bahasa pemrograman Python baik untuk tujuan komersil/non-komersil.
+Secara spesifik, IT consultant merupakan spesialis yang berfokus dalam proses integrasi teknologi informasi dalam bisnis.
 
-# Hello world
+Mereka diwajibkan untuk memberi saran pada klien terkait penggunaan teknologi informasi secara efisien untuk mencapai tujuan perusahaan.
 
-Menampilkan teks.
+Meskipun terkesan menarik, pekerjaan satu ini cukup menantang. Seorang IT consultant harus memiliki kemampuan analisis yang kuat untuk memahami masalah klien dan membuat solusi yang efektif.
 
-``` markdown
-print("Hai dunia.")
-```
+# Web developer {.smaller}
 
-# Belajar python
+Lulusan teknik informatika dapat bekerja sebagai web developer secara penuh waktu atau paruh waktu dalam beberapa jenis organisasi, termasuk korporasi dan pemerintah atau sebagai freelancer.
 
-[online-python.com](https://www.online-python.com)
+Pengetahuan yang harus diketahui oleh web developer antara lain adalah HMTL/XHMTL, CSS, JavaScript.
 
-# Struktur program python
+Selain itu, mereka juga harus menguasai server/client side architecture, programming dalam framework seperti Perl, Python, Ruby, PHP, Go, dan Java.
 
-Program Python pada umumnya terdiri dari:
+# Mobile application developer {.smaller}
 
-## Statements
+Mobile application developer bertugas untuk membuat, menguji, dan memprogram aplikasi khusus untuk smartphine di berbagai sistem operasi seperti iOS, Android, dan Windows Phone.
 
-Instruksi yang diberikan secara baris per baris untuk dijalankan oleh mesin. Contoh:
+Maka dari itu, pekerjaan satu ini juga memayungi profesi seperti android developer dan iOS developer.
 
-``` markdown
-print("Saya belajar python.")
-```
+Jika ingin menjadi mobile application developer, lulusan teknik informatika harus mempelajari bahasa pemrograman dan software development environment untuk platform yang mereka pilih.
 
-## Variables
+Pasalnya, saat ini, banyak mobile platform yang memiliki bahasa intinya masing-masing, seperti Java untuk Android, Objective-C untuk iOS, dan C# untuk Windows Phone.
 
-Lokasi penyimpanan yang dapat digunakan untuk menampung sebuah data atau informasi. Contoh: aku mempunyai variabel yang bernama bilangan1, bilangan2, dan kalimat1
+# Game developer {.smaller}
 
-``` markdown
-bilangan1 = 5
-bilangan2 = 10
-kalimat1 = "Belajar Bahasa Python"
-```
+Game developer sendiri secara keseluruhan bekerja untuk mendesain dan membuat video game untuk komputer dan berbagai konsol, mulai dari konsep hingga eksekusi.
 
-## Literals
+Adapun tugas-tugas yang dikerjakan oleh game developer meliputi:
 
-Simbol-simbol yang dapat kita gunakan untuk mengisi suatu variabel. Pada kode yang telah dicontohkan sebelumnya, angka `5` dan `10` serta `Belajar Bahasa Python` disebut sebagai literal.
+* pembuatan storyline dan biografi karakter
+* melaksanakan design review
+* mendesain role-play mechanics
+* membuat prototipe yang dibuat untuk staf dan manajemen perusahaan
+* mendokumentasikan proses desain sebuah video game
 
-## Operators {.smaller}
+Jika berkuliah di teknik informatika, sebaiknya menguasai bahasa-bahasa pemrograman utama seperti C++, Visual Basic, Java, dan MEL yang sering digunakan untuk keperluan game development.
 
-Simbol-simbol yang dapat digunakan untuk mengubah nilai dari satu variabel dengan melibatkan satu atau lebih variabel dan literal. Contoh: Tanda "`+`" merupakan salah satu contoh operator.
+# System analyst {.smaller}
 
-| Operator  | Deskripsi     |
-| --------  | ------------- |
-| +         | Ditambah      |
-| -         | Dikurangi     |
-| /         | Dibagi        |
-| *         | Dikali        |
-| =         | Sama dengan   |
-| %         | Modulo        |
+System analyst sendiri merupakan seseorang yang menggunakan sistem khusus untuk mendesain solusi dalam arsitektur teknologi informasi.
 
----
+Mereka diwajibkan untuk memodifikasi dan mengoptimalkan sistem yang ada sambil mengintegrasi fitur-fitur agar lebih efisien dan produktif.
 
-Contoh:
+Menurut Computer Science, system analyst akan terjun dalam proyek-proyek yang mengharuskannya untuk memeriksa model bisnis dan menganalisis kebutuhan sistem tersebut.
 
-``` markdown
-bilangan1 = 5
-bilangan2 = 10
-tambah = bilangan1 + bilangan2
-kali = bilangan1 * bilangan2
+Setelah itu seorang system analyst melakukan pengembangan produk dan mengimplementasikan, mengatur, dan menguji solusinya dalam sistem.
 
-print("Hasil tambah: ", tambah)
-print("Hasil kali: ", kali)
-```
+# Data scientist {.smaller}
 
-Output:
+Mereka bertugas untuk mengubah data mentah menjadi informasi yang berharga menggunakan algoritma dan machine learning.
 
-```{python}
-bilangan1 = 5
-bilangan2 = 10
-tambah = bilangan1 + bilangan2
-kali = bilangan1 * bilangan2
+Data-data tersebut nantinya akan digunakan pihak manajemen untuk keperluan perencanaan strategi bisnis dan evaluasi ulang produk.
 
-print("Hasil tambah: ", tambah)
-print("Hasil kali: ", kali)
-```
+Dikarenakan tingkat demand-nya yang tinggi, data scientist dibutuhkan dalam berbagai sektor industri, seperti keuangan, pendidikan, riset ilmiah, ritel, teknologi informasi, dan e-commerce.
 
-## Whitespace
+# Android developer {.smaller}
 
-Pada bahasa Python, spasi dan tab memiliki makna khusus untuk menandai serangkaian blok dalam kode Python. Hal ini akan dijelaskan secara lebih lanjut pada bagian struktur pemilihan dan struktur pengulangan pada bahasa Python.
+Sesuai namanya, Android developer bertugas untuk membuat dan merancang aplikasi agar dapat digunakan pada perangkat berbasis Android.
 
-## Comments {.smaller}
+Maka dari itu, mereka harus menguasai sejumlah bahasa pemrograman yang relevan dengan keperluan Android, seperti Java dan Kotlin.
 
-Merupakan sekumpulan teks yang dituliskan di dalam sebuah program yang tidak akan mempengaruhi hasil dari sebuah program.
+Nah, melihat kemajuan operating system tersebut, profesi satu ini sedang dibutuhkan oleh banyak perusahaan yang memiliki aplikasi.
 
-Terdapat dua jenis comments di dalam Python, yaitu:
+# iOS developer {.smaller}
 
-a. single line comment (comments dalam satu baris) seperti pada contoh berikut:
-``` markdown
-# perintah pada baris ini tidak berpengaruh
-```
+Profesi iOS developer juga menjadi prospek kerja yang menunggu mahasiswa teknik informatika setelah mereka nanti lulus.
 
-b. multi line comment (comments dalam beberapa baris) yang dapat dituliskan seperti pada contoh berikut:
-```` markdown
-```
-perintah pada baris ini tidak berpengaruh.
-juga pada baris ini.
-dan baris ini juga.
-```
-````
+Seperti Android developer, iOS developer bertugas untuk menciptakan aplikasi yang mampu untuk digunakan perangkat iOS.
 
-## Aturan Penamaan Python Variables {.smaller}
+Hasilnya, mereka harus memahami iOS environment dan menguasai bahasa pemrograman seperti Swift atau objective-C.
 
-Penamaan suatu variabel pada python dapat dikatakan valid selama memenuhi aturan-aturan berikut:
+# Cyber security analyst {.smaller}
 
-1. Nama dari sebuah variabel harus dimulai dengan huruf (a-z, A-Z) atau karakter garis bawah underscore (_) dan tidak dapat dimulai dengan angka (0-9).
-1. Variabel hanya boleh mengandung karakter alfabet, bilangan dan underscore (a-z, A-Z, 0-9, _)
-1. Variabel bersifat case-sensitive yang mengartikan bahwa variabel TINGGI, tinggi, dan Tinggi merujuk pada tiga variabel berbeda.
+Jika orang awam bertanya jurusan teknik informatika kerja apa? Salah satu jawaban paling baik yang bisa diberikan adalah cyber security analyst.
 
-``` markdown
-bil1, bil2 = 5, 10
-kata1 = "Selamat", kata2 = "Pagi"
-```
+Profesi satu ini sedang menjadi tren. Sebab, banyak aplikasi dan software baru yang memiliki masalah keamanan dalam sistemnya.
 
-# Tipe Data Dasar
+Cyber security analyst diperlukan untuk mengatasi masalah tersebut dengan sistem keamanan yang kebal dari data breach atau bug yang tak diinginkan.
 
-Null, Boolean, Numeric dan Text
+# SEO specialist {.smaller}
 
-## Null Type
+Menurut Best College Reviews, profesi ini cocok untuk alumni teknik informatika yang gemar dengan dunia marketing dan penulisan.
 
-Tipe data null dalam Python digunakan untuk menyimpan nilai kosong atau tidak ada yang dinyatakan dengan `None`.
+Mereka bertugas untuk membuat website lebih ramah terhadap search engine supaya bisa ditemukan dengan mudah oleh para audiens.
 
-## Boolean Type
+Untuk keperluan sehari-hari, SEO specialist wajib menguasai tools seperti i Google Search Console, Google Analytics, MOZ, SEMRUSH, dan masih banyak lagi.
 
-Tipe data boolean atau bool digunakan untuk menyimpan nilai kebenaran (`True`, `False`) dari suatu ekspresi logika.
+# Database administrator {.smaller}
 
-## Numeric Type
+Database administrator merupakan prospek kerja lainnya yang sering dipilih oleh lulusan teknik informatika.
 
-Tipe data yang digunakan untuk menyimpan data berupa angka. Terdapat dua macam tipe data numeric, yaitu:
+Tugas mereka meliputi proses rancangan desain database, melakukan pemeliharaan, dan perbaikan suatu basis data.
 
-* `int` untuk menyimpan bilangan bulat (contoh: 0, 1, 2, 404, -500, -1000)
-* `float` untuk menyimpan bilangan riil (contoh: 0.5, 1.01, 2.05, 4.04)
+Pekerjaan satu ini juga sedang menjadi tren di dunia kerja. Sebab, hampir setiap perusahaan pasti memiliki database untuk menyimpan data-data penting.
 
----
+# Cloud architect {.smaller}
 
-Contoh :
-``` markdown
-# bilangan riil dikonversi jadi bilangan bulat/int
-angka1 = int(10.2)
-# bilangan bulat dikonversi jadi bilangan riil/float
-angka2 = float(20)
+Hal ini berlaku karena penyimpanan data kini mulai beralih ke sistem cloud dan bukan lagi pada perangkat hardware.
 
-print(angka1)
-print(angka2)
-```
+Tugas dari cloud architect sendiri adalah mendesain aplikasi berbasis cloud, melakukan manajemen cloud, dan monitoring data yang tersimpan di dalamnya.
 
-Hasil:
+Selain itu, mereka juga harus mempunyai pengetahuan mengenai sistem operasi seperti Linux dan Windows serta menguasai jaringan TCP/IP, HTTP, hingga DNS.
 
-```{python}
-# bilangan riil dikonversi jadi bilangan bulat/int
-angka1 = int(10.2)
-# bilangan bulat dikonversi jadi bilangan riil/float
-angka2 = float(20)
+# Software tester {.smaller}
 
-print(angka1)
-print(angka2)
-```
+Mereka yang memiliki pekerjaan ini berperan untuk menguji dan mengevaluasi kinerja software yang sudah diciptakan para developer.
 
-## Text Type
+Software tersebut akan diuji baik dari segi functional testing, unit testing, UI testing, dan masih banyak lagi.
 
-Pada Python, tipe data string (`str`) digunakan untuk menyimpan data teks. Tipe data string dimulai dengan tanda kutip (baik kutip satu/ dua) dan diakhir dengan tanda kutip. Contoh: `"Teks"`, `"Contoh teks menggunakan Python"`, dan `'Teks pada Python'`.
+# Network engineer {.smaller}
+
+Pilihan karier ini akan selalu dibutuhkan. Sebab, infrastruktur jaringan sudah pasti diperlukan jika perusahaan ingin membangun platform komunikasi untuk para user.
+
+Tugas dari seorang network engineer sendiri adalah merencanakan, merancang desain, mengelola, dan menyelesaikan semua permasalahan dalam jaringan.
+
+# Full stack developer {.smaller}
+
+Di sini, mereka berperan untuk mengembangkan sisi pekerjaan dalam aplikasi atau software, termasuk database, server, sistem engineering, maupun permintaan lainnya dari klien.
+
+Untuk menjadi seorang full stack developer diharuskan menguasai konsep dari teknologi terkini. Karena akan bertugas untuk mengembangkan sisi front end dan back end.
+
+# Front end developer {.smaller}
+
+Mereka bertugas untuk mengelola bagian pemrograman yang dapat dilihat secara langsung oleh pengguna dalam aplikasi.
+
+Untuk menjadi seorang front end developer, harus menguasai HTML, CSS, dan bahasa pemrograman JavaScript.
+
+HTML sendiri digunakan sebagai kerangka dari suatu website. CSS biasanya dimanfaatkan untuk memperindah tampilan dalam situs. Sementara, JavaScript digunakan untuk memperkuat fungsi tiap elemen dalam website.
+
+# Back end developer {.smaller}
+
+Mereka sejatinya adalah para programmer yang bertugas untuk mengelola dan merancang sistem yang berada di belakang layar sistem aplikasi.
+
+Untuk memiliki pekerjaan ini, ada banyak bahasa pemrograman yang harus dikuasai, seperti Java, PHP, Ruby, Python, JavaScript (Node.js).
+
+Back end developer sendiri akan menangani keperluan data dari website seperti server dan database sambil merancang sistem serta API.
+
+# Computer forensic investigator {.smaller}
+
+Mereka secara khusus bekerja pada suatu perusahaan atau organisasi pemerintahana secara privat.
+
+Computer forensic investigator juga dapat ditemukan bekerja di lembaga dan badan penegakan hukum, seperti kepolisian.
+
+Tugas utama mereka adalah menemukan bukti legal atau pelanggaran hukum di dalam media penyimpanan atau perangkat hardware lainnya.
+
+# Web administrator {.smaller}
+
+Tugas mereka adalah menyediakan host web untuk organisasi, memberikan akses untuk pengguna tertentu, dan  membuat server email.
+
+Pada perusahaan yang lebih besar, web administrator juga ditugaska untuk membantu pengguna memahami fungsi dasar sistem yang mereka gunakan.
+
+# UX researcher {.smaller}
+
+Di sini, mereka berperan untuk menjalankan riset dan menemukan solusi yang dapat memenuhi kebutuhan pelanggan dalam aplikasi.
+
+Mereka juga perlu mencari bentuk dan fitur dalam produk yang relevan dengan kebutuhan di pasar.
+
+# Web designer {.smaller}
+
+Sesuai namanya, mereka berperan untuk merancang tampilan UI dan fitur-fitur di dalam sebuah situs web.
+
+Meskipun terkesan simpel, mereka harus bisa menciptakan desain modern yang tampak ramah dan mudah untuk dimanfaatkan para pengguna.
+
+# Applications engineer {.smaller}
+
+Seorang applications engineer adalah penghubung antara para developer dan pelanggan. Mereka meninjau data penjualan dan membantu dalam produksi software yang kompleks.
+
+Mereka juga mempresentasikan temuan para developer kepada publik dan menyaring feedback tentang perubahan yang perlu dilakukan dalam apikasi.
+
+# Penetration tester {.smaller}
+
+Mereka bertugas untuk melakukan pengujian resmi pada sistem komputer untuk mengungkap kelemahan keamanannya yang dapat dimanfaatkan oleh penjahat.
+
+Plihan beberapa spesialisasi dalam pekerjaan ini, seperti:
+
+* jaringan dan infrastruktur
+* sistem operasi Windows, Linux, dan Mac
+* embedded computer systems
+* aplikasi web/seluler
+* sistem kontrol SCADA (supervisory control and data acquisition)
+* Internet of Things (IoT)
 
 # Any Question? {background-color="rgb(10, 132, 81)"}
 
 # Simple Homework {.smaller}
 
-1. Deklarasi variable bilangan1 dengan 20, dan bilangan2 dengan 10 dan tampilkan hasil pengurangan bilangan1 & bilangan 2.
-1. Nia membeli baju dan mendapatkan potongan 10% dari harga baju 250.000. Hitung jumlah uang yang harus dibayar nia setelah potongan. Deklarasikan dengan bahasa python.
+1. Pilih salah satu jenis pekerjaan dalam bidang informatika lalu jelaskan tugas dan tujuannya secara mendetail.
+1. Dari pekerjaan yang dipilih sebelumnya di nomer 1, bahasa pemrograman apa yang harus dikuasai agar menjadi profesional dalam bidangnya?
 
 # What the Next?
 
 Materi minggu depan apa ya...
 
-* Topik: **Computer Science Jobs**
-* Deskripsi: _Belajar membuat program sederhana konversi suhu dengan bahasa python (lanjutan)._
+* Topik: **Why Learn Programming?**
+* Deskripsi: _Mempelajari alasan belajar pemrograman komputer?._
 * Tempat: Laboratorium komputer.
 
 [Back to home](/)

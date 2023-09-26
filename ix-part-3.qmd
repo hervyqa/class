@@ -1,5 +1,5 @@
 ---
-title: "#3 Computer Science Jobs"
+title: "#3 Why Learn Programming"
 author: "#IX - Hervy Qurrotul Ainur Rozi"
 format: "revealjs"
 logo: logo.svg
@@ -10,224 +10,106 @@ footer: |
 
 ## Tujuan belajar {.smaller}
 
-Topik: **Pekerjaan dalam bidang Ilmuan Komputer**
+Topik: **Mengapa Belajar Pemrograman**
 
-1. Murid mampu mengetahui prospek dalam informatika.
-1. Murid mampu mengetahui bahasa pemrograman.
+1. Murid mampu mengetahui manfaat dari pemrograman atau koding.
+1. Murid mampu mengetahui jenis-jenis bahasa pemrograman.
 
 ## Manfaat belajar {.smaller}
 
-1. Menambah wawasan pekerjaan dalam bidang informatika.
-1. Menggali potensi diri dalam bidang pemrograman.
+1. Menambah wawasan tentang pentingnya pemrograman atau koding.
+2. Menambah wawasan karir di masa depan.
 
-# Software engineer {.smaller}
 
-Pekerjaan ini mengaplikasikan prinsip-prinsip pengelolaan dan optimalisasi software.
+# Apa sih **pemrograman** itu? {.smaller}
 
-Hal itu seperti analisis teknik informatika dan matematika dalam desain, development, maintenance, hingga *testing software* komputer atau device lain.
+## Pemrograman {.smaller}
 
-Jenis-jenis software yang dibuat oleh seorang software engineer bermacam-macam, seperti sistem operasi dan *network distribution*, serta software untuk compiler yang mengonversi program untuk eksekusi pada komputer.
+Pemrograman (program) adalah ilmu yang mempelajari _code_ (koding) mulai dari menulis, mengubah dan memperbaiki kode yang digunakan.
 
-# IT consultant {.smaller}
+Apa sih kegunaan dari code itu? Code adalah salah satu dasar yang digunakan jika anda ingin membuat program operasi ataupun program komputer, karena awal dibuatnya semua program dibuat menggunakan kode maka untuk bisa menciptakan hal yang sama anda juga harus ikut menggunakan kode.
 
-IT consultant adalah salah satu peluang karier bagi lulusan teknik informatika. Profesi ini bertugas untuk menerapkan strategi teknologi informasi dalam perencanaan, pelaksanaan, hingga evaluasi di sebuah perusahaan.
+## Pemrograman {.smaller}
 
-Secara spesifik, IT consultant merupakan spesialis yang berfokus dalam proses integrasi teknologi informasi dalam bisnis.
+Code yang digunakan ini dibuat untuk pepmrogram agar sistem bisa melakukan pekerjaan sesuai dengan apa yang programer inginkan.
 
-Mereka diwajibkan untuk memberi saran pada klien terkait penggunaan teknologi informasi secara efisien untuk mencapai tujuan perusahaan.
+Tentunya pemrograman membutuhkan penyusunan kode yang sitemik dan tidak asal memasukkan kode saja.
 
-Meskipun terkesan menarik, pekerjaan satu ini cukup menantang. Seorang IT consultant harus memiliki kemampuan analisis yang kuat untuk memahami masalah klien dan membuat solusi yang efektif.
+Penginputan kode ini harus memperhatikan alogaritma dan bahasa pemrograman yang tidak mudah namun butuh penghitungan yang jeli. Oleh karena itu kenapa tidak semua orang bisa memiliki kemampuan ini karena skill yang dibutuhkan untuk mempelajari ini juga cukup sulit.
 
-# Web developer {.smaller}
+# Alasan harus belajar pemrograman dari sekarang?
 
-Lulusan teknik informatika dapat bekerja sebagai web developer secara penuh waktu atau paruh waktu dalam beberapa jenis organisasi, termasuk korporasi dan pemerintah atau sebagai freelancer.
+## Sebagai persiapan {.smaller}
 
-Pengetahuan yang harus diketahui oleh web developer antara lain adalah HMTL/XHMTL, CSS, JavaScript.
+Belajar coding mulai dari sekarang bisa memberikan pemahaman tentang ilmu pemrograman jauh-jauh hari sebelum masuk universitas.
 
-Selain itu, mereka juga harus menguasai server/client side architecture, programming dalam framework seperti Perl, Python, Ruby, PHP, Go, dan Java.
+Sehingga saat sudah kuliah, atau ketika anda membutuhkan ilmu pemrograman komputer dalam pekerjaan, sudah selangkah lebih tahu.
 
-# Mobile application developer {.smaller}
+Hal ini tentu membawa keuntungan daripada seseorang yang belum mempelajari coding sama sekali.
 
-Mobile application developer bertugas untuk membuat, menguji, dan memprogram aplikasi khusus untuk smartphine di berbagai sistem operasi seperti iOS, Android, dan Windows Phone.
+Setidaknya sudah punya dasar-dasarnya lebih dulu.
 
-Maka dari itu, pekerjaan satu ini juga memayungi profesi seperti android developer dan iOS developer.
+## Kesempatan karier {.smaller}
 
-Jika ingin menjadi mobile application developer, lulusan teknik informatika harus mempelajari bahasa pemrograman dan software development environment untuk platform yang mereka pilih.
+Belajar coding sangat penting di era digital seperti saat ini.
 
-Pasalnya, saat ini, banyak mobile platform yang memiliki bahasa intinya masing-masing, seperti Java untuk Android, Objective-C untuk iOS, dan C# untuk Windows Phone.
+Meski tidak kuliah di bidang IT, tapi kalau punya kemampuan coding yang memadai, membuka peluang untuk mendapatkan pekerjaan yang berhubungan dengan ilmu tersebut.
 
-# Game developer {.smaller}
+Mulai dari Programmer, Web Engineer, Software Engineer, hingga Game Developer. Selain itu, ada juga bidang pekerjaan lain yang tidak terlalu fokus pada pemrograman, tapi tetap membutuhkan pemahaman dasar-dasar coding, seperti IT Analyst, Technical Writer dan Quality Assurance.
 
-Game developer sendiri secara keseluruhan bekerja untuk mendesain dan membuat video game untuk komputer dan berbagai konsol, mulai dari konsep hingga eksekusi.
+## Tingkatkan kemampuan _critical thinking_ dan _problem solving_ {.smaller}
 
-Adapun tugas-tugas yang dikerjakan oleh game developer meliputi:
+Belajar pemrograman komputer atau coding, akan berhadapan dengan permasalahan yang memaksa berpikir kritis agar menemukan solusi. Ini dikenal dengan _critical thinking_ dan _problem solving_. Contohnya, saat sedang membuat sebuah program, lalu tiba-tiba ada error atau bug yang anda tidak tahu bagaimana cara mengatasinya. Tentu, anda akan terus berusaha mencari cara agar program yang anda buat bisa berjalan lancar.
 
-* pembuatan storyline dan biografi karakter
-* melaksanakan design review
-* mendesain role-play mechanics
-* membuat prototipe yang dibuat untuk staf dan manajemen perusahaan
-* mendokumentasikan proses desain sebuah video game
+Dengan begitu, kemampuan critical thinking dan problem solving anda akan makin terasah.
 
-Jika berkuliah di teknik informatika, sebaiknya menguasai bahasa-bahasa pemrograman utama seperti C++, Visual Basic, Java, dan MEL yang sering digunakan untuk keperluan game development.
+## Menambah pengalaman, relasi dan penghasilan {.smaller}
 
-# System analyst {.smaller}
+Belajar coding sejak dini juga bermanfaat ketika seseorang beranjak dewasa. Misalnya di masa kuliah, saat bisa menguasai coding, maka bisa mendapatkan tambahan uang saku dengan bekerja paruh waktu. Selain itu anda juga bisa mengikuti project di sekolah, kampus, baik bersama dosen atau teman.
 
-System analyst sendiri merupakan seseorang yang menggunakan sistem khusus untuk mendesain solusi dalam arsitektur teknologi informasi.
+## Hobi yang menyenangkan {.smaller}
 
-Mereka diwajibkan untuk memodifikasi dan mengoptimalkan sistem yang ada sambil mengintegrasi fitur-fitur agar lebih efisien dan produktif.
+Meski tujuan awal belajar coding hanya sebagai hobi, seseorang tetap boleh belajar suatu ilmu yang menurutmu menarik. anda bisa mempelajarinya sendiri melalui buku, artikel, atau video tutorial yang banyak tersebar di internet. Kursus privat juga bisa menjadi pilihan lainnya.
 
-Menurut Computer Science, system analyst akan terjun dalam proyek-proyek yang mengharuskannya untuk memeriksa model bisnis dan menganalisis kebutuhan sistem tersebut.
+## Bermanfaat bagi orang lain {.smaller}
 
-Setelah itu seorang system analyst melakukan pengembangan produk dan mengimplementasikan, mengatur, dan menguji solusinya dalam sistem.
+Belajar pemrograman bukan hanya bermanfaat bagi diri sendiri, tapi juga orang lain. Misalnya, anda berhasil membuat sebuah game edukasi, yang bisa membantu anak-anak belajar materi pelajaran dengan menyenangkan lewat permainan. 
 
-# Data scientist {.smaller}
+## Melatih komunikasi {.smaller}
 
-Mereka bertugas untuk mengubah data mentah menjadi informasi yang berharga menggunakan algoritma dan machine learning.
+Belajar coding, ternyata tak hanya berdampak pada taraf hidup, melainkan juga melatih skill berkomunikasi dalam bersosialisasi.
 
-Data-data tersebut nantinya akan digunakan pihak manajemen untuk keperluan perencanaan strategi bisnis dan evaluasi ulang produk.
+Coding memberikan kesempatan bagi para programmer, untuk bertukar pikiran dan saling memberikan solusi seputar pemrograman.
 
-Dikarenakan tingkat demand-nya yang tinggi, data scientist dibutuhkan dalam berbagai sektor industri, seperti keuangan, pendidikan, riset ilmiah, ritel, teknologi informasi, dan e-commerce.
+Bahkan, para _programmer_ memiliki komunitas yang selalu aktif untuk memberikan referensi belajar dalam mengutarakan ide-ide kompleks.
 
-# Android developer {.smaller}
+## Menciptakan inovasi baru {.smaller}
 
-Sesuai namanya, Android developer bertugas untuk membuat dan merancang aplikasi agar dapat digunakan pada perangkat berbasis Android.
-
-Maka dari itu, mereka harus menguasai sejumlah bahasa pemrograman yang relevan dengan keperluan Android, seperti Java dan Kotlin.
-
-Nah, melihat kemajuan operating system tersebut, profesi satu ini sedang dibutuhkan oleh banyak perusahaan yang memiliki aplikasi.
-
-# iOS developer {.smaller}
-
-Profesi iOS developer juga menjadi prospek kerja yang menunggu mahasiswa teknik informatika setelah mereka nanti lulus.
-
-Seperti Android developer, iOS developer bertugas untuk menciptakan aplikasi yang mampu untuk digunakan perangkat iOS.
-
-Hasilnya, mereka harus memahami iOS environment dan menguasai bahasa pemrograman seperti Swift atau objective-C.
-
-# Cyber security analyst {.smaller}
-
-Jika orang awam bertanya jurusan teknik informatika kerja apa? Salah satu jawaban paling baik yang bisa diberikan adalah cyber security analyst.
-
-Profesi satu ini sedang menjadi tren. Sebab, banyak aplikasi dan software baru yang memiliki masalah keamanan dalam sistemnya.
-
-Cyber security analyst diperlukan untuk mengatasi masalah tersebut dengan sistem keamanan yang kebal dari data breach atau bug yang tak diinginkan.
-
-# SEO specialist {.smaller}
-
-Menurut Best College Reviews, profesi ini cocok untuk alumni teknik informatika yang gemar dengan dunia marketing dan penulisan.
-
-Mereka bertugas untuk membuat website lebih ramah terhadap search engine supaya bisa ditemukan dengan mudah oleh para audiens.
-
-Untuk keperluan sehari-hari, SEO specialist wajib menguasai tools seperti i Google Search Console, Google Analytics, MOZ, SEMRUSH, dan masih banyak lagi.
-
-# Database administrator {.smaller}
-
-Database administrator merupakan prospek kerja lainnya yang sering dipilih oleh lulusan teknik informatika.
-
-Tugas mereka meliputi proses rancangan desain database, melakukan pemeliharaan, dan perbaikan suatu basis data.
-
-Pekerjaan satu ini juga sedang menjadi tren di dunia kerja. Sebab, hampir setiap perusahaan pasti memiliki database untuk menyimpan data-data penting.
-
-# Cloud architect {.smaller}
-
-Hal ini berlaku karena penyimpanan data kini mulai beralih ke sistem cloud dan bukan lagi pada perangkat hardware.
-
-Tugas dari cloud architect sendiri adalah mendesain aplikasi berbasis cloud, melakukan manajemen cloud, dan monitoring data yang tersimpan di dalamnya.
-
-Selain itu, mereka juga harus mempunyai pengetahuan mengenai sistem operasi seperti Linux dan Windows serta menguasai jaringan TCP/IP, HTTP, hingga DNS.
-
-# Software tester {.smaller}
-
-Mereka yang memiliki pekerjaan ini berperan untuk menguji dan mengevaluasi kinerja software yang sudah diciptakan para developer.
-
-Software tersebut akan diuji baik dari segi functional testing, unit testing, UI testing, dan masih banyak lagi.
-
-# Network engineer {.smaller}
-
-Pilihan karier ini akan selalu dibutuhkan. Sebab, infrastruktur jaringan sudah pasti diperlukan jika perusahaan ingin membangun platform komunikasi untuk para user.
-
-Tugas dari seorang network engineer sendiri adalah merencanakan, merancang desain, mengelola, dan menyelesaikan semua permasalahan dalam jaringan.
-
-# Full stack developer {.smaller}
-
-Di sini, mereka berperan untuk mengembangkan sisi pekerjaan dalam aplikasi atau software, termasuk database, server, sistem engineering, maupun permintaan lainnya dari klien.
-
-Untuk menjadi seorang full stack developer diharuskan menguasai konsep dari teknologi terkini. Karena akan bertugas untuk mengembangkan sisi front end dan back end.
-
-# Front end developer {.smaller}
-
-Mereka bertugas untuk mengelola bagian pemrograman yang dapat dilihat secara langsung oleh pengguna dalam aplikasi.
-
-Untuk menjadi seorang front end developer, harus menguasai HTML, CSS, dan bahasa pemrograman JavaScript.
-
-HTML sendiri digunakan sebagai kerangka dari suatu website. CSS biasanya dimanfaatkan untuk memperindah tampilan dalam situs. Sementara, JavaScript digunakan untuk memperkuat fungsi tiap elemen dalam website.
-
-# Back end developer {.smaller}
-
-Mereka sejatinya adalah para programmer yang bertugas untuk mengelola dan merancang sistem yang berada di belakang layar sistem aplikasi.
-
-Untuk memiliki pekerjaan ini, ada banyak bahasa pemrograman yang harus dikuasai, seperti Java, PHP, Ruby, Python, JavaScript (Node.js).
-
-Back end developer sendiri akan menangani keperluan data dari website seperti server dan database sambil merancang sistem serta API.
-
-# Computer forensic investigator {.smaller}
-
-Mereka secara khusus bekerja pada suatu perusahaan atau organisasi pemerintahana secara privat.
-
-Computer forensic investigator juga dapat ditemukan bekerja di lembaga dan badan penegakan hukum, seperti kepolisian.
-
-Tugas utama mereka adalah menemukan bukti legal atau pelanggaran hukum di dalam media penyimpanan atau perangkat hardware lainnya.
-
-# Web administrator {.smaller}
-
-Tugas mereka adalah menyediakan host web untuk organisasi, memberikan akses untuk pengguna tertentu, dan  membuat server email.
-
-Pada perusahaan yang lebih besar, web administrator juga ditugaska untuk membantu pengguna memahami fungsi dasar sistem yang mereka gunakan.
-
-# UX researcher {.smaller}
-
-Di sini, mereka berperan untuk menjalankan riset dan menemukan solusi yang dapat memenuhi kebutuhan pelanggan dalam aplikasi.
-
-Mereka juga perlu mencari bentuk dan fitur dalam produk yang relevan dengan kebutuhan di pasar.
-
-# Web designer {.smaller}
-
-Sesuai namanya, mereka berperan untuk merancang tampilan UI dan fitur-fitur di dalam sebuah situs web.
-
-Meskipun terkesan simpel, mereka harus bisa menciptakan desain modern yang tampak ramah dan mudah untuk dimanfaatkan para pengguna.
-
-# Applications engineer {.smaller}
-
-Seorang applications engineer adalah penghubung antara para developer dan pelanggan. Mereka meninjau data penjualan dan membantu dalam produksi software yang kompleks.
-
-Mereka juga mempresentasikan temuan para developer kepada publik dan menyaring feedback tentang perubahan yang perlu dilakukan dalam apikasi.
-
-# Penetration tester {.smaller}
-
-Mereka bertugas untuk melakukan pengujian resmi pada sistem komputer untuk mengungkap kelemahan keamanannya yang dapat dimanfaatkan oleh penjahat.
-
-Plihan beberapa spesialisasi dalam pekerjaan ini, seperti:
-
-* jaringan dan infrastruktur
-* sistem operasi Windows, Linux, dan Mac
-* embedded computer systems
-* aplikasi web/seluler
-* sistem kontrol SCADA (supervisory control and data acquisition)
-* Internet of Things (IoT)
+Belajar coding, membuat para programmer dapat menciptakan berbagai teknologi yang memudahkan serta bermanfaat bagi masyarakat. Contoh saja aplikasi **Gojek**, yang saat ini menjadi salah satu start up besar di dunia yang telah memberikan sumbangsih dalam membangun perekonomian di Indonesia. Selain itu, banyak pula aplikasi baru yang bermunculan dan mengubah dunia.
 
 # Any Question? {background-color="rgb(10, 132, 81)"}
 
-# Simple Homework {.smaller}
+# Medium Homework
 
-1. Pilih salah satu jenis pekerjaan dalam bidang informatika lalu jelaskan tugas dan tujuannya secara mendetail.
-1. Dari pekerjaan yang dipilih sebelumnya di nomer 1, bahasa pemrograman apa yang harus dikuasai agar menjadi profesional dalam bidangnya?
+1. Berhitung 1 sampai 5.
+
+# Medium Homework {.smaller}
+
+- Topik Kelompok:
+    1. Kelompok 1: Bahasa pemrograman C dan C ++.
+    1. Kelompok 2: Bahasa pemrograman Java dan Kotlin.
+    1. Kelompok 3: Bahasa pemrograman HTML dan CSS.
+    1. Kelompok 4: Bahasa pemrograman Dart dan Flutter.
+    1. Kelompok 5: Bahasa pemrograman Python dan Numpy.
+- Buatlah presentasi tentang bahasa pemrograman sesuai kelompok. Presentasi menjelaskan tentang deskripsi, sejarah, manfaat, tujuan, dan alasan mengapa harus belajar bahasa pemrograman tersebut.
+- Pertemuan depan akan dipresentasikan setiap kelompok dengan PDF/PPT/ODP.
 
 # What the Next?
 
 Materi minggu depan apa ya...
 
-* Topik: **Programming Language with Python (part 2)**
-* Deskripsi: _Belajar membuat program sederhana konversi suhu dengan bahasa python (lanjutan)._
+* Topik: **Programming Language with Python**
+* Deskripsi: _Belajar membuat program sederhana dengan bahasa python._
 * Tempat: Laboratorium komputer.
 
 [Back to home](/)
