@@ -96,8 +96,8 @@ Pengguna bebas untuk menggunakan software tersebut. Dan apa yang dilakukan semua
 
 Materi minggu depan apa ya...
 
-* Topik: **Programming Language with Python**
-* Deskripsi: _Belajar membuat program sederhana dengan bahasa python._
+* Topik: **Computer Science Jobs**
+* Deskripsi: _Jenis-jenis pekerjaan di bidang ilmuan komputer._
 * Tempat: Laboratorium komputer.
 
 [Back to home](/)
