@@ -34,6 +34,17 @@ website:
     logo-alt: "Class"
     title: false
     collapse-below: lg
+    tools:
+      - icon: telegram
+        href: https://t.me/hervyqa
+      - icon: whatsapp
+        href: https://wa.me/6281336762725
+      - icon: github
+        menu:
+          - text: Source Code
+            url:  https://github.com/hervyqa/class
+          - text: Report a Bug
+            url:  https://github.com/hervyqa/class/issues
         
   sidebar:
     - id: "start"
@@ -122,8 +133,8 @@ website:
 
 format:
   html:
-    theme: cosmo
-    css: styles.css
+    theme:
+      light: cosmo
     toc: true
 
 editor: visual
