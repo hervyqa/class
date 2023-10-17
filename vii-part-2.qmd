@@ -8,7 +8,7 @@ footer: |
     <a href="https://hervyqa.id" target="_blank">Hervy Qurrotul A.</a>
 ---
 
-# Tujuan belajar
+## Learning objectives {.smaller}
 
 Topik: **Praktek: Mengetik dengan 10 Jari**
 
@@ -16,28 +16,26 @@ Topik: **Praktek: Mengetik dengan 10 Jari**
 1. Murid mampu menggunakan keyboard dengan efisien sehingga mempercepat pekerjaan dokumen.
 1. Murid mampu latihan secara mandiri secara berkala.
 
-# Manfaat belajar
+## Benefits of learning {.smaller}
 
 1. Pengguna dapat memaksimalkan 10 jarinya.
 1. Pengguna dapat mengurangi kesalahan ketik atau _typo_.
 
-# Mengapa materi praktek ini penting?
+## Why is this important? {.smaller}
 
 Menjadi lebih produktif, mengetik lebih cepat juga bisa meningkatkan kinerja otak.
 
-# Metode {.smaller}
+## Metode {.smaller}
 
 Metode mengetik 10 jari adalah teknik yang sangat manjur untuk menggunakan keyboard komputer pengguna secara efisien. Dengan beberapa latihan dan posisi jari yang benar, pengguna dapat mengetik tanpa perlu melihat pada keyboard.
 
-# Posisi jari
+## Posisi jari {.smaller}
 
 Pastikan jari telunjuk memposisikan huruf F dan J.
 
 ![](img/finger-position.webp)
 
----
-
-## Posisi jari kanan
+## Posisi jari kanan {.smaller}
 
 ![](img/typing-map.webp)
 
@@ -47,9 +45,7 @@ Pastikan jari telunjuk memposisikan huruf F dan J.
 1. Jari Manis: O, L, .
 1. Jari Kelingking: P, ;, /
 
----
-
-## Posisi jari kiri
+## Posisi jari kiri {.smaller}
 
 ![](img/typing-map.webp)
 
@@ -59,19 +55,19 @@ Pastikan jari telunjuk memposisikan huruf F dan J.
 1. Jari Manis: W, S, X
 1. Jari Kelingking: Q, A, Z
 
-# Tips Mengetik {.smaller}
+## Tips Mengetik {.smaller}
 
 **Jangan Mencoba Untuk Menjadi Cepat, Tetapi Tepat**
 
 Saat belajar mengetik dengan 10 jari tentu ingin secepatnya dapat mengetik dengan cepat. Jangan terpengaruh dengan pikiran ini, yang harus difokuskan adalah mencoba mengetik dengan tepat terlebih dahulu. Karena jika sudah bisa mengetik dengan tepat, kecepatan akan meningkat dengan sendirinya.
 
-# Tips Mengetik {.smaller}
+## Tips Mengetik {.smaller}
 
 **Posisi Postur Tubuh Yang Benar**
 
 Memposisikan diri dengan benar di hadapan keyboard penting untuk mengetik semua huruf dengan kecepatan tinggi menggunakan 10 jari. Selain itu, postur yang benar dapat mencegah masalah fisik yang akan terjadi dikemudian hari.
 
-# Tips Mengetik {.smaller}
+## Tips Mengetik {.smaller}
 
 **Coba Mengetik Tanpa Melihat Keyboard**
 
@@ -79,7 +75,7 @@ Setelah sudah mengetahui posisi jari yang tepat, posisi tubuh yang benar, kini s
 
 Faktanya, melihat keyboard saat mengetik bisa mengurangi efisiensi. Biasakanlah mengetik tanpa melihat keyboard sekaligus mengingat posisi setiap huruf.
 
-# Daftar software {.smaller}
+# Daftar software
 
 ## Ktouch (linux) {.smaller}
 

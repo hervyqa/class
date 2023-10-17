@@ -8,24 +8,24 @@ footer: |
     <a href="https://hervyqa.id" target="_blank">Hervy Qurrotul A.</a>
 ---
 
-# Tujuan belajar
+## Learning objectives {.smaller}
 
 Topik: **Teori - Mengenal perkakas perkantoran dan produktifitas**
 
 1. Murid mampu mengetahui jenis-jenis perangkat lunak perkantoran.
 1. Murid mampu mengetahui fungsi dari perangkat lunak perkantoran.
 
-# Manfaat belajar
+## Benefits of learning {.smaller}
 
 1. Pengguna terbiasa menggunakan perangkat lunak berbasis yang terbuka (open source).
 1. Pengguna tidak dipaksa menggunakan perangkat lunak proprietary karena tidak menguasai cara penggunaannya.
 1. Murid mampu mengetahui manfaat moral dari menggunakan perangkat lunak terbuka.
 
-# Mengapa materi ini penting?
+## Why is this important? {.smaller}
 
 Bertujuan untuk sosialiasi perangkat lunak perkantoran yang menjunjung tinggi kebebasan dan privasi pengguna.
 
-# Jenis perangkat lunak perkantoran?
+# Jenis perangkat lunak perkantoran
 
 ## Microsoft Office {.smaller}
 
@@ -116,25 +116,6 @@ Pernah terpilih menjadi 6 terbaik dalam lomba membuat desain presentasi mengguna
 ---
 
 ![](img/adfinis_mail.webp)
-
-# Event
-
-## LOUCA 2023
-
-:::: {.columns}
-
-::: {.column width="50%"}
-![](img/louca_ubuntu.webp)
-:::
-
-::: {.column width="50%"}
-![](img/louca_lo.webp)
-:::
-
-::::
-
-<https://louca.id>
-
 # Any Question? {background-color="rgb(10, 132, 81)"}
 
 # Simple Homework

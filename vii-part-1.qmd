@@ -8,7 +8,7 @@ footer: |
     <a href="https://hervyqa.id" target="_blank">Hervy Qurrotul A.</a>
 ---
 
-## Tujuan belajar {.smaller}
+## Learning objectives {.smaller}
 
 Topik: **Kebijakan privasi dalam berinternet**
 
@@ -18,18 +18,18 @@ Topik: **Kebijakan privasi dalam berinternet**
 1. Murid mampu mengetahui jenis virus dan cara memproteksinya.
 1. Murid mampu bertanggung jawab terhadap aplikasi apa saja yang dipasang di perangkatnya.
 
-## Manfaat belajar {.smaller}
+## Benefits of learning {.smaller}
 
 1. Pengguna merasa aman menggunakan internet tanpa ada tindak kejahatan.
 1. Mendapatkan informasi yang benar dan terhindar dari hoax.
 1. Mengetahui jenis pencurian data pengguna secara sembunyi-sembunyi.
 1. Mengetahui _big company_ yang berusaha menggunakan privasi pengguna.
 
-## Mengapa materi ini penting? {.smaller}
+## Why is this important? {.smaller}
 
 Masalah perlindungan data privasi di dunia internet belakangan menjadi topik hangat yang dibahas di berbagai media massa maupun ruang-ruang publik di Indonesia. Masalah ini semakin mengemuka setelah [Edward Snowden](https://en.wikipedia.org/wiki/Edward_Snowden) mengungkap isu spionase yang dilakukan Badan Intelijen Australia terhadap sejumlah petinggi di negara-negara Asia Tenggara, termasuk Indonesia.
 
-# Data pribadi? {.smaller}
+## Data pribadi? {.smaller}
 
 Tak bisa dipungkiri, perkembangan teknologi ICT begitu pesat. Banyak keuntungannya, namun kerugiannya adalah ranah privasi mulai dilanggar. Data-data pribadi dengan mudah dikuasai pihak lain, diperjualbelikan, parahnya lagi bisa menjalar ke tindak kriminalitas.
 
@@ -62,7 +62,7 @@ Melalui prinsip _send and received_ maka secara prinsip itu pula, si pengguna (u
 | Play Store | Aurora Store |
 | Youtube | Newpipe |
 
-# Virus komputer
+## Virus komputer {.smaller}
 
 Virus komputer merupakan program komputer yang dapat menggandakan atau menyalin dirinya sendiri dan menyebar dengan cara menyisipkan salinan dirinya ke dalam program atau dokumen lain. Virus komputer dapat dianalogikan dengan virus biologis yang menyebar dengan cara menyisipkan dirinya sendiri ke sel makhluk hidup. Virus komputer dapat merusak (misalnya dengan merusak data pada dokumen), membuat pengguna komputer merasa terganggu, maupun tidak menimbulkan efek sama sekali.
 
@@ -106,7 +106,7 @@ Virus komputer merupakan program komputer yang dapat menggandakan atau menyalin 
 
 ::::
 
-# Pengertian Hoaks {.smaller}
+## Pengertian Hoaks {.smaller}
 
 Hoaks adalah sebuah informasi rekayasa yang sengaja dilakukan untuk memanipulasi informasi yang sebenarnya. Tak hanya memanipulasi informasi, tetapi memutarbalikan fakta dari informasi asli dengan informasi rekayasa yang meyakinkan.
 
