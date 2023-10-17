@@ -8,14 +8,14 @@ footer: |
     <a href="https://hervyqa.id" target="_blank">Hervy Qurrotul A.</a>
 ---
 
-## Tujuan belajar {.smaller}
+## Learning objectives {.smaller}
 
 Topik: **Mengapa Belajar Pemrograman**
 
 1. Murid mampu mengetahui manfaat dari pemrograman atau koding.
 1. Murid mampu mengetahui jenis-jenis bahasa pemrograman.
 
-## Manfaat belajar {.smaller}
+## Benefits of learning {.smaller}
 
 1. Menambah wawasan tentang pentingnya pemrograman atau koding.
 2. Menambah wawasan karir di masa depan.

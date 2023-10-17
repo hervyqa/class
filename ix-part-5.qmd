@@ -1,5 +1,5 @@
 ---
-title: "#5 Programming Language with Python (part 2)"
+title: "#5 Programming Language with Python Basic"
 author: "#IX - Hervy Qurrotul Ainur Rozi"
 format: "revealjs"
 logo: logo.svg
@@ -8,39 +8,207 @@ footer: |
     <a href="https://hervyqa.id" target="_blank">Hervy Qurrotul A.</a>
 ---
 
-# Tujuan belajar
+## Learning objectives {.smaller}
 
-Topik: **Praktik - Pemrograman dengan bahasa Python**
+Topik: **Keuntungan dari perangkat lunak terbuka**
 
-1. Murid mampu mengetahui bahasa python.
-1. Murid mampu membuat berkas `.py` di kode editor.
+1. Murid mampu mengetahui tipe data python.
+1. Murid mampu menggunakan bahasa pemrograman.
 
-# Manfaat belajar
+## Benefits of learning {.smaller}
 
-1. Pengguna bisa membuat program python dasar.
+1. Pengguna bisa membuat program sederhana dari bahasa pemrograman python.
+2. Pengguna bisa membuat program kelulusan nilai dengan if-else.
 
-# Mengapa materi ini penting?
+# Bahasa Python?
 
-Bertujuan untuk melatih kemampuan siswa-siswi dalam mengembangkan suatu program dari bahasa python.
+## Python {.smaller}
 
-# Praktik
+Python adalah bahasa pemrograman yang ditujukan untuk general-purpose programming dan termasuk dalam kategori high-level programming language.
 
-1. Buka playstore.
-1. Install aplikasi `WildLearn` sebagai kumpulan materi pemrograman.
-1. Install aplikasi `Pycode` sebagai kode editor.
+Sebagai general-purpose programming language, Python digunakan untuk berbagai macam permasalahan seperti: pengembangan aplikasi web ataupun mobile, data science, dll.
 
-## WildLearn
+Python masuk ke dalam kategori **high-level programming language** dikarenakan bahasa pemrograman Python yang mudah untuk dibaca dan dituliskan oleh manusia.
 
-![](img/wildlearn.webp)
+Bahasa  pemrograman  Python  diciptakan  oleh **Guido van Rossum** dan pertama kali diperkenalkan pada tahun 1991 sebagai sebuah proyek open-source.
 
-## PyCode
+Sifat **open-source** dari Python mengartikan bahwa setiap orang dapat mengembangkan program komputer dengan menggunakan bahasa pemrograman Python baik untuk tujuan komersil/non-komersil.
 
-![](img/pycode.webp)
+# Hello world
+
+Menampilkan teks.
+
+``` markdown
+print("Hai dunia.")
+```
+
+# Belajar python
+
+[online-python.com](https://www.online-python.com)
+
+# Struktur program python
+
+Program Python pada umumnya terdiri dari:
+
+## Statements
+
+Instruksi yang diberikan secara baris per baris untuk dijalankan oleh mesin. Contoh:
+
+``` markdown
+print("Saya belajar python.")
+```
+
+## Variables
+
+Lokasi penyimpanan yang dapat digunakan untuk menampung sebuah data atau informasi. Contoh: aku mempunyai variabel yang bernama bilangan1, bilangan2, dan kalimat1
+
+``` markdown
+bilangan1 = 5
+bilangan2 = 10
+kalimat1 = "Belajar Bahasa Python"
+```
+
+## Literals
+
+Simbol-simbol yang dapat kita gunakan untuk mengisi suatu variabel. Pada kode yang telah dicontohkan sebelumnya, angka `5` dan `10` serta `Belajar Bahasa Python` disebut sebagai literal.
+
+## Operators {.smaller}
+
+Simbol-simbol yang dapat digunakan untuk mengubah nilai dari satu variabel dengan melibatkan satu atau lebih variabel dan literal. Contoh: Tanda "`+`" merupakan salah satu contoh operator.
+
+| Operator  | Deskripsi     |
+| --------  | ------------- |
+| +         | Ditambah      |
+| -         | Dikurangi     |
+| /         | Dibagi        |
+| *         | Dikali        |
+| =         | Sama dengan   |
+| %         | Modulo        |
+
+---
+
+Contoh:
+
+``` markdown
+bilangan1 = 5
+bilangan2 = 10
+tambah = bilangan1 + bilangan2
+kali = bilangan1 * bilangan2
+
+print("Hasil tambah: ", tambah)
+print("Hasil kali: ", kali)
+```
+
+Output:
+
+```{python}
+bilangan1 = 5
+bilangan2 = 10
+tambah = bilangan1 + bilangan2
+kali = bilangan1 * bilangan2
+
+print("Hasil tambah: ", tambah)
+print("Hasil kali: ", kali)
+```
+
+## Whitespace
+
+Pada bahasa Python, spasi dan tab memiliki makna khusus untuk menandai serangkaian blok dalam kode Python. Hal ini akan dijelaskan secara lebih lanjut pada bagian struktur pemilihan dan struktur pengulangan pada bahasa Python.
+
+## Comments {.smaller}
+
+Merupakan sekumpulan teks yang dituliskan di dalam sebuah program yang tidak akan mempengaruhi hasil dari sebuah program.
+
+Terdapat dua jenis comments di dalam Python, yaitu:
+
+a. single line comment (comments dalam satu baris) seperti pada contoh berikut:
+``` markdown
+# perintah pada baris ini tidak berpengaruh
+```
+
+b. multi line comment (comments dalam beberapa baris) yang dapat dituliskan seperti pada contoh berikut:
+```` markdown
+```
+perintah pada baris ini tidak berpengaruh.
+juga pada baris ini.
+dan baris ini juga.
+```
+````
+
+## Aturan Penamaan Python Variables {.smaller}
+
+Penamaan suatu variabel pada python dapat dikatakan valid selama memenuhi aturan-aturan berikut:
+
+1. Nama dari sebuah variabel harus dimulai dengan huruf (a-z, A-Z) atau karakter garis bawah underscore (_) dan tidak dapat dimulai dengan angka (0-9).
+1. Variabel hanya boleh mengandung karakter alfabet, bilangan dan underscore (a-z, A-Z, 0-9, _)
+1. Variabel bersifat case-sensitive yang mengartikan bahwa variabel TINGGI, tinggi, dan Tinggi merujuk pada tiga variabel berbeda.
+
+``` markdown
+bil1, bil2 = 5, 10
+kata1 = "Selamat", kata2 = "Pagi"
+```
+
+# Tipe Data Dasar
+
+Null, Boolean, Numeric dan Text
+
+## Null Type
+
+Tipe data null dalam Python digunakan untuk menyimpan nilai kosong atau tidak ada yang dinyatakan dengan `None`.
+
+## Boolean Type
+
+Tipe data boolean atau bool digunakan untuk menyimpan nilai kebenaran (`True`, `False`) dari suatu ekspresi logika.
+
+## Numeric Type
+
+Tipe data yang digunakan untuk menyimpan data berupa angka. Terdapat dua macam tipe data numeric, yaitu:
+
+* `int` untuk menyimpan bilangan bulat (contoh: 0, 1, 2, 404, -500, -1000)
+* `float` untuk menyimpan bilangan riil (contoh: 0.5, 1.01, 2.05, 4.04)
+
+---
+
+Contoh :
+``` markdown
+# bilangan riil dikonversi jadi bilangan bulat/int
+angka1 = int(10.2)
+# bilangan bulat dikonversi jadi bilangan riil/float
+angka2 = float(20)
+
+print(angka1)
+print(angka2)
+```
+
+Hasil:
+
+```{python}
+# bilangan riil dikonversi jadi bilangan bulat/int
+angka1 = int(10.2)
+# bilangan bulat dikonversi jadi bilangan riil/float
+angka2 = float(20)
+
+print(angka1)
+print(angka2)
+```
+
+## Text Type
+
+Pada Python, tipe data string (`str`) digunakan untuk menyimpan data teks. Tipe data string dimulai dengan tanda kutip (baik kutip satu/ dua) dan diakhir dengan tanda kutip. Contoh: `"Teks"`, `"Contoh teks menggunakan Python"`, dan `'Teks pada Python'`.
 
 # Any Question? {background-color="rgb(10, 132, 81)"}
 
-# Simple Homework
+# Simple Homework {.smaller}
 
-1. Selesaikan materi di wildlearn dari `Getting started` sampai `Control Flow`?
+1. Deklarasi variable bilangan1 dengan 20, dan bilangan2 dengan 10 dan tampilkan hasil pengurangan bilangan1 & bilangan 2.
+1. Nia membeli baju dan mendapatkan potongan 10% dari harga baju 250.000. Hitung jumlah uang yang harus dibayar nia setelah potongan. Deklarasikan dengan bahasa python.
+
+# What the Next?
+
+Materi minggu depan apa ya...
+
+* Topik: **Programming Language with Python (part 2)**
+* Deskripsi: _Belajar membuat program sederhana konversi suhu dengan bahasa python (lanjutan)._
+* Tempat: Laboratorium komputer.
 
 [Back to home](/)

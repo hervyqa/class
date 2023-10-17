@@ -8,7 +8,7 @@ footer: |
     <a href="https://hervyqa.id" target="_blank">Hervy Qurrotul A.</a>
 ---
 
-## Tujuan belajar {.smaller}
+## Learning objectives {.smaller}
 
 Topik: **Keuntungan dari perangkat lunak terbuka**
 
@@ -18,7 +18,7 @@ Topik: **Keuntungan dari perangkat lunak terbuka**
 1. Murid mampu mengendalikan jenis perangkat lunak terbuka (open source).
 1. Murid mampu berkontribusi dengan perangkat lunak terbuka (open source).
 
-## Manfaat belajar {.smaller}
+## Benefits of learning {.smaller}
 
 1. Pengguna tidak terbebani dengan penggunaan perangkat lunak terbuka.
 1. Pengguna mampu memaksimalkan dari tujuan perangkat lunak terbuka.

@@ -1,5 +1,5 @@
 ---
-title: "#4 Programming Language with Python Basic"
+title: "#4 IDE, Compiler and Tools for Programmer"
 author: "#IX - Hervy Qurrotul Ainur Rozi"
 format: "revealjs"
 logo: logo.svg
@@ -8,193 +8,103 @@ footer: |
     <a href="https://hervyqa.id" target="_blank">Hervy Qurrotul A.</a>
 ---
 
-## Tujuan belajar {.smaller}
+## Learning objectives {.smaller}
 
-Topik: **Keuntungan dari perangkat lunak terbuka**
+Topik: **IDE, kompiler dan perkakas untuk programmer**
 
-1. Murid mampu mengetahui tipe data python.
-1. Murid mampu menggunakan bahasa pemrograman.
+1. Murid mampu mengetahui tipe IDE dan perkakas yang digunakan oleh programmer.
+1. Murid mampu menggunakan IDE dan perangkat lunak pendukung.
 
-## Manfaat belajar {.smaller}
+## Benefits of learning {.smaller}
 
-1. Pengguna bisa membuat program sederhana dari bahasa pemrograman python.
-2. Pengguna bisa membuat program kelulusan nilai dengan if-else.
+1. Pengguna bisa memasang dan menggunakan IDE beserta plugin yang dibutuhkan.
+2. Pengguna bisa membuat program dan mengkompilasi program.
 
-# Bahasa Python?
+# Integrated Development Environment (IDE)
 
-## Python {.smaller}
+## What is *IDE*? {.smaller}
 
-Python adalah bahasa pemrograman yang ditujukan untuk general-purpose programming dan termasuk dalam kategori high-level programming language.
+IDE *(Integrated Development Editor)* adalah perangkat lunak *text editor* yang memudahkan pengguna untuk melakukan pekerjaan *programming*.
+*IDE* meningkatkan produktifitas pengguna dengan memiliki fitur antara lain:
 
-Sebagai general-purpose programming language, Python digunakan untuk berbagai macam permasalahan seperti: pengembangan aplikasi web ataupun mobile, data science, dll.
+* Penyunting kode sumber (*source code editor*).
+* Pembangunan lokal otomatis (*local build automation*).
+* Program pengujian kode original (*debugger program*).
+* Kode komplit otomatis (*code autocomplete*).
+* Penyorotan sintaks (*syntax highlighting*).
+* Penyelesaian kode cerdas (*intelligent code completion*).
+* Dukungan pemfaktoran ulang (*refactoring support*).
+* Dukungan ekstensi dan plugin (*plugins and extensions support*).
+* Jumlah bahasa yang didukung (*supported languages*).
 
-Python masuk ke dalam kategori **high-level programming language** dikarenakan bahasa pemrograman Python yang mudah untuk dibaca dan dituliskan oleh manusia.
+## Manfaat *IDE* {.smaller}
 
-Bahasa  pemrograman  Python  diciptakan  oleh **Guido van Rossum** dan pertama kali diperkenalkan pada tahun 1991 sebagai sebuah proyek open-source.
+Ada banyak manfaat menggunakan *IDE*, tetapi yang menonjol yaitu tentang efisiensi dan waktu pengguna.
 
-Sifat **open-source** dari Python mengartikan bahwa setiap orang dapat mengembangkan program komputer dengan menggunakan bahasa pemrograman Python baik untuk tujuan komersil/non-komersil.
+  * **Minimal konfigurasi**.
+  Mengurangi pengaturan secara manual dan mengintegrasikannya setiap bagian dalam perkakas (*tools*) tertentu. Kebanyakan *IDE* sudah terkonfigurasi (*pre-configured*) sehingga pengguna bisa langsung menggunakannya.
+  * **Hemat waktu**.
+  Mengurangi waktu yang dibutuhkan untuk mempelajari banyak jenis perkakas yang berbeda. Dikarenakan banyak fitur yang tersedia, pengguna bisa langsung memilih fitur apa yang dibutuhkan.
 
-# Hello world
+# Jenis *IDE*
 
-Menampilkan teks.
+# *IDE* spesifik bahasa pemrograman {.smaller}
 
-``` markdown
-print("Hai dunia.")
-```
+Dengan adanya *IDE* yang lebih spesifik dengan bahasa pemrograman tertentu, pengguna tidak terlalu mengatur kebutuhan untuk pengolahan data, misalnya memasang addons, konfigurasi *versioning control*, mengatur layout editor yang sesuai dengan alur kerja, plotting visualisasi dan sebagainya.
+Pengguna hanya memasang beberapa tambahan pustaka yang diperlukan.
 
-# Belajar python
+## RStudio Desktop {.smaller}
 
-[online-python.com](https://www.online-python.com)
+![](img/rstudio-ide.webp)
 
-# Struktur program python
+[RStudio Desktop](https://posit.co/products/open-source/rstudio) dari *Posit* adalah IDE yang kompatibel dengan bahasa R.
+Fitur RStudio sudah termasuk console, syntax highlight, alat untuk plotting, debugging dan manajemen area kerja (workspace).
+RStudio tersedia versi open source edisi komunitas dan edisi komersil yang keduanya dapat berjalan di sistem operasi *GNU/Linux*, macOS, dan Windows.
 
-Program Python pada umumnya terdiri dari:
+## Spyder IDE {.smaller}
 
-## Statements
+![](img/spyder-ide.webp)
 
-Instruksi yang diberikan secara baris per baris untuk dijalankan oleh mesin. Contoh:
+[Spyder](https://spyder-ide.org) adalah IDE *open source* untuk kebutuhan ilmiah dengan bahasa python serta ditulis juga dengan bahasa python native.
+Spyder ditujukan untuk ilmuan (scientists), engineer dan data analisis.
+Sypder memiliki fitur builtin yang luar biasa seperti pengefitan lanjutan, analisis, debugging, pembuatan profil dari alat pengembangan komprehensif dengan eksplorasi data dan kemampuan visualisasi dari paket pypi.
 
-``` markdown
-print("Saya belajar python.")
-```
+## JupyterLab {.smaller}
 
-## Variables
+[JupyterLab](https://jupyter.org) merupakan projek free software, standar terbuka, dan web servis untuk interaktif semua bahasa pemrograman komputasi. JupyterLab juga merupakan generasi baru untuk mengantikan jupyter notebook (antarmuka klasik) yang dapat dijalankan melalui *web browser*.
+JupyterLab memiliki fitur lebih seperti notebook, terminal, teks editor, file browser, output, dan lain-lain.
+Fiturnya sangat mampu untuk memenuhi alur kerja untuk bidang data sains, komputasi ilmiah, jurnalis komputasi dan machine learning.
 
-Lokasi penyimpanan yang dapat digunakan untuk menampung sebuah data atau informasi. Contoh: aku mempunyai variabel yang bernama bilangan1, bilangan2, dan kalimat1
+# *IDE* untuk tujuan umum
 
-``` markdown
-bilangan1 = 5
-bilangan2 = 10
-kalimat1 = "Belajar Bahasa Python"
-```
+## Code-OSS {.smaller}
 
-## Literals
+Code-OSS merupakan *IDE* yang berupa kode sumber (*source code*) dari repo github [microsoft/vscode](https://github.com/microsoft/vscode) yang berada dibawah standar lisensi [MIT](https://github.com/microsoft/vscode/blob/main/LICENSE.txt).
+Repositori tersebut dibangun oleh Microsoft dan komunitas secara bersama-sama. **Tidak ada binary** yang didapatkan didalam repositori tersebut, karena hanya menyediakan kode sumber saja.
+Pengguna perlu mengkompilasinya agar dapat digunakan di sistem operasi yang digunakan.
+Beberapa *GNU/Linux* sudah menyediakan *binary* sehingga dapat menjalankan program `code` langsung seperti Alpine Linux, Arch, Manjaro, dan Void Linux.
 
-Simbol-simbol yang dapat kita gunakan untuk mengisi suatu variabel. Pada kode yang telah dicontohkan sebelumnya, angka `5` dan `10` serta `Belajar Bahasa Python` disebut sebagai literal.
+## VSCode {.smaller}
 
-## Operators {.smaller}
+[VSCode](https://code.visualstudio.com) (*Visual Studio Code*) merupakan *IDE* dari repo github [microsoft/vscode](https://github.com/microsoft/vscode).
+Perbedaannya dengan [Code-OSS](#code-oss) yaitu, VSCode dilapisi elemen Microsoft langsung seperti logo, branding, *telemetry* yang sudah aktif, dan fitur integrasi dengan github.
+VSCode juga menyediakan binary yang sudah siap untuk dipasang ke sistem operasi tanpa harus dikompilasi terlebih dahulu.
+Dengan adanya tambahan komponen *nonfree* dari Microsoft tentu VSCode [tidak berlisensikan](https://code.visualstudio.com/license) sebagai perangkat lunak terbuka lagi.
 
-Simbol-simbol yang dapat digunakan untuk mengubah nilai dari satu variabel dengan melibatkan satu atau lebih variabel dan literal. Contoh: Tanda "`+`" merupakan salah satu contoh operator.
+## VSCodium {.smaller}
 
-| Operator  | Deskripsi     |
-| --------  | ------------- |
-| +         | Ditambah      |
-| -         | Dikurangi     |
-| /         | Dibagi        |
-| *         | Dikali        |
-| =         | Sama dengan   |
-| %         | Modulo        |
+[VSCodium](https://vscodium.com) merupakan [Code-OSS](#code-oss) yang dikompilasi menjadi *binary*. Berbeda dengan [VSCode](#vscode), VSCodium menghilangkan komponen Microsoft dan menonaktifkan *telemetry*/pelacak dari Microsoft. 
+*Binary* VSCodium tersedia dalam berbagi platform GNU/Linux, MacOS, Windows dan lain-lain.
+Menjalankan VSCodium di terminal bisa menggunakan perintah `codium`.
+Penulis menyarankan untuk menggunakan VSCodium daripada menggunakan VSCode.
 
----
+# Compiler
 
-Contoh:
+_Coming soon.._
 
-``` markdown
-bilangan1 = 5
-bilangan2 = 10
-tambah = bilangan1 + bilangan2
-kali = bilangan1 * bilangan2
+# Tools
 
-print("Hasil tambah: ", tambah)
-print("Hasil kali: ", kali)
-```
-
-Output:
-
-```{python}
-bilangan1 = 5
-bilangan2 = 10
-tambah = bilangan1 + bilangan2
-kali = bilangan1 * bilangan2
-
-print("Hasil tambah: ", tambah)
-print("Hasil kali: ", kali)
-```
-
-## Whitespace
-
-Pada bahasa Python, spasi dan tab memiliki makna khusus untuk menandai serangkaian blok dalam kode Python. Hal ini akan dijelaskan secara lebih lanjut pada bagian struktur pemilihan dan struktur pengulangan pada bahasa Python.
-
-## Comments {.smaller}
-
-Merupakan sekumpulan teks yang dituliskan di dalam sebuah program yang tidak akan mempengaruhi hasil dari sebuah program.
-
-Terdapat dua jenis comments di dalam Python, yaitu:
-
-a. single line comment (comments dalam satu baris) seperti pada contoh berikut:
-``` markdown
-# perintah pada baris ini tidak berpengaruh
-```
-
-b. multi line comment (comments dalam beberapa baris) yang dapat dituliskan seperti pada contoh berikut:
-```` markdown
-```
-perintah pada baris ini tidak berpengaruh.
-juga pada baris ini.
-dan baris ini juga.
-```
-````
-
-## Aturan Penamaan Python Variables {.smaller}
-
-Penamaan suatu variabel pada python dapat dikatakan valid selama memenuhi aturan-aturan berikut:
-
-1. Nama dari sebuah variabel harus dimulai dengan huruf (a-z, A-Z) atau karakter garis bawah underscore (_) dan tidak dapat dimulai dengan angka (0-9).
-1. Variabel hanya boleh mengandung karakter alfabet, bilangan dan underscore (a-z, A-Z, 0-9, _)
-1. Variabel bersifat case-sensitive yang mengartikan bahwa variabel TINGGI, tinggi, dan Tinggi merujuk pada tiga variabel berbeda.
-
-``` markdown
-bil1, bil2 = 5, 10
-kata1 = "Selamat", kata2 = "Pagi"
-```
-
-# Tipe Data Dasar
-
-Null, Boolean, Numeric dan Text
-
-## Null Type
-
-Tipe data null dalam Python digunakan untuk menyimpan nilai kosong atau tidak ada yang dinyatakan dengan `None`.
-
-## Boolean Type
-
-Tipe data boolean atau bool digunakan untuk menyimpan nilai kebenaran (`True`, `False`) dari suatu ekspresi logika.
-
-## Numeric Type
-
-Tipe data yang digunakan untuk menyimpan data berupa angka. Terdapat dua macam tipe data numeric, yaitu:
-
-* `int` untuk menyimpan bilangan bulat (contoh: 0, 1, 2, 404, -500, -1000)
-* `float` untuk menyimpan bilangan riil (contoh: 0.5, 1.01, 2.05, 4.04)
-
----
-
-Contoh :
-``` markdown
-# bilangan riil dikonversi jadi bilangan bulat/int
-angka1 = int(10.2)
-# bilangan bulat dikonversi jadi bilangan riil/float
-angka2 = float(20)
-
-print(angka1)
-print(angka2)
-```
-
-Hasil:
-
-```{python}
-# bilangan riil dikonversi jadi bilangan bulat/int
-angka1 = int(10.2)
-# bilangan bulat dikonversi jadi bilangan riil/float
-angka2 = float(20)
-
-print(angka1)
-print(angka2)
-```
-
-## Text Type
-
-Pada Python, tipe data string (`str`) digunakan untuk menyimpan data teks. Tipe data string dimulai dengan tanda kutip (baik kutip satu/ dua) dan diakhir dengan tanda kutip. Contoh: `"Teks"`, `"Contoh teks menggunakan Python"`, dan `'Teks pada Python'`.
+_Coming soon.._
 
 # Any Question? {background-color="rgb(10, 132, 81)"}
 
