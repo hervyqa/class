@@ -1,5 +1,5 @@
 ---
-title: "#3 Sistem Komputer"
+title: "#4 Definition of Operating System and Examples"
 author: "#VIII - Hervy Qurrotul Ainur Rozi"
 format: "revealjs"
 logo: logo.svg
@@ -10,30 +10,22 @@ footer: |
 
 ## Learning objectives {.smaller}
 
-Topik: Kebijakan privasi dalam berinternet
+Topik: **Definisi dari Sistem Operasi dan Contohnya**
 
-1. Murid mampu 
+1. Murid mampu mengetahui jenis-jenis sistem operasi.
+1. Murid mampu mengetahui perbedaan sistem operasi linux.
+1. Murid mampu mengetahui manfaat dari setiap sistem operasi linux.
 
 ## Benefits of learning {.smaller}
 
-1. Pengguna 
+1. Pengguna bisa menggunakan sistem operasi linux
+1. Pengguna mengetahui manfaat linux dan perbedaan dengan sistem operasi proprietary lainnya.
 
 ## Why is this important? {.smaller}
 
-## Rekomendasi Antivirus {.smaller}
+Sistem Operasi *(Operating System)*
 
-:::: {.columns}
-
-::: {.column width="50%"}
-1. Avast Antivirus
-
-:::
-
-::: {.column width="50%"}
-1. Immunet Antivirus 
-:::
-
-::::
+## Description {.smaller}
 
 # Any Question? {background-color="rgb(10, 132, 81)"}
 

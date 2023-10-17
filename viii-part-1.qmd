@@ -8,7 +8,7 @@ footer: |
     <a href="https://hervyqa.id" target="_blank">Hervy Qurrotul A.</a>
 ---
 
-## Tujuan belajar {.smaller}
+## Learning objectives {.smaller}
 
 Topik: **Informatika dan Berfikir Komputasional**
 
@@ -16,12 +16,12 @@ Topik: **Informatika dan Berfikir Komputasional**
 1. Murid mampu membuat _algoritma_.
 1. Murid mampu membuat langkah terbaik untuk diterapkan dalam suatu aplikasi.
 
-## Manfaat belajar {.smaller}
+## Benefits of learning {.smaller}
 
 1. Pengguna memiliki daya untuk problem solving (memecahkan suatu masalah).
 1. Pengguna mampu membuat algortma yang efektif.
 
-## Mengapa materi ini penting? {.smaller}
+## Why is this important? {.smaller}
 
 Setiap program dibuat untuk memecahkan masalah dalam kehidupan sehari-hari.
 

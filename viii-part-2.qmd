@@ -8,32 +8,32 @@ footer: |
     <a href="https://hervyqa.id" target="_blank">Hervy Qurrotul A.</a>
 ---
 
-## Tujuan belajar {.smaller}
+## Learning objectives {.smaller}
 
 Topik: **CLI dan GUI Aplikasi Universal**
 
 1. Murid mampu mengetahui perbedaan antara perangkat lunak CLI dan GUI.
 1. Murid mampu mengetahui jenis-jenis aplikasi CLI dan GUI.
 
-## Manfaat belajar {.smaller}
+## Benefits of learning {.smaller}
 
 1. Pengguna mampu menggunakan aplikasi CLI dan GUI.
 1. Pengguna mampu mengetahui mengapa adanya aplikasi CLI dan GUI.
 1. Pengguna mengetahui pentingnya menggunakan aplikasi CLI.
 
-## Mengapa materi ini penting? {.smaller}
+## Why is this important? {.smaller}
 
 Banyak jenis aplikasi CLI yang sering digunakan oleh ahli informatika, aplikasi tersebut lebih ringan dan tidak membutuhkan tampilan grafis agar dapat berjalan.
 
 Dengan mempelajari aplikasi CLI maka pekerjaan dalam bidang informatika lebih mudah diselesaikan dengan cepat.
 
-# User Interface {.smaller}
+## User Interface {.smaller}
 
 UI (*User Interface*) merupakan istilah yang dipergunakan untuk menentukan bagaimana seorang pengguna berinteraksi dengan perangkat elektronik yang digunakan, khususnya perangkat komputer. CLI dan GUI merupakan bagian dari berbagai jenis user interface atau yang bisa disebut juga dengan antarmuka pengguna.
 
 CLI dan GUI adalah dua jenis UI yang berbeda dalam hal grafik yang digunakan pada sistem operasi.
 
-# CLI {.smaller}
+## CLI {.smaller}
 
 :::: {.columns}
 
@@ -49,13 +49,13 @@ CLI atau *Command Line Interface* adalah program yang memungkinkan memerintahkan
 
 ::::
 
-# CLI {.smaller}
+## CLI {.smaller}
 
 * Kebanyakan pengguna enggan menggunakan CLI karena berpikir bahwa CLI hanya digunakan oleh mereka yang merupakan pengguna tingkat lanjut. Padahal sesungguhnya tidak demikian. CLI dapat juga digunakan oleh semua jenis pengguna.
 * Penerapan CLI pada komputer pribadi sudah sangat jarang. Hal ini terjadi karena banyak pengguna yang lebih memilih menggunakan GUI.
 * CLI pada akhirnya sering digunakan pengguna profesional untuk mengerjakan berbagai tugas komputer tertentu. Seperti mengelola dan mengurus server jaringan, melakukan hosting web, berbagai keperluan administrasi, keamanan dan masih banyak lainnya.
 
-# GUI {.smaller}
+## GUI {.smaller}
 
 :::: {.columns}
 
