@@ -1,5 +1,5 @@
 ---
-title: "#6 Introduction to Addons/Extension"
+title: "#6 Computer Science & Definition"
 author: "#VII - Hervy Qurrotul Ainur Rozi"
 format: "revealjs"
 logo: logo.svg
@@ -10,165 +10,32 @@ footer: |
 
 ## Learning objectives {.smaller}
 
-Topik: **Teori - Mengenal Addons/Ekstensi Web Browser**
+Topik: **Teori - Ilmu Komputer dan Definisinya**
 
-1. Murid mampu mengetahui jenis-jenis addons atau ekstensi.
-1. Murid mampu mengetahui fungsi dari setiap addons dasar yang dibutuhkan di browser.
+1. Murid mampu mengetahui ...
 
 ## Benefits of learning {.smaller}
 
-1. Pengguna terbiasa menggunakan perangkat lunak berbasis yang terbuka (open source).
-1. Pengguna mampu memasang sendiri addons di berbagai platform.
+1. ...
 
 ## Why is this important? {.smaller}
 
-Bertujuan untuk sosialiasi perangkat lunak addons untuk melindungi privasi data setiap pengguna.
-
-## Whats is Addons? {.smaller}
-
-Add-Ons adalah komponen opsional atau pilihan, dalam hal ini berupa sebuah perangkat lunak yang bila ditambahkan ke dalam perangkat lunak utama browser.
-
-Misalnya di Firefox Browser tanpa tambahan addons sekalipun Firefox tetap dapat dimanfaatkan fungsi–fungsi utamanya. Tetapi akan lebih bagus jika di tambahkan beberapa addons.
-
-## Tautan Addons {.smaller}
-
-- Firefox: <https://addons.mozilla.org>
-- Chrome: <https://chrome.google.com/webstore>
-- Opera: <https://addons.opera.com>
-
-## Jenis-Jenis Addons {.smaller}
-
-:::: {.columns}
-
-::: {.column width="50%"}
-- Peringatan dan pembaruan
-- Tampilan
-- Penanda (Bookmark)
-- Manajemen Unduhan
-- Berita dan Blog
-- Permainan dan Entertain
-- Dukungan Bahasa
-:::
-
-::: {.column width="50%"}
-- Foto, Musik dan Video
-- Privasi dan Keamanan
-- Perkakas Pencarian
-- Belanja (Shopping)
-- Sosial dan Komunikasi
-- Tabs
-- Pengembangan Situs (Web tools)
-:::
-
-::::
-
-## Standart Addons {.smaller}
-
-:::: {.columns}
-
-::: {.column width="50%"}
-
-![](img/addons-dark-reader.webp)
-:::
-
-::: {.column width="50%"}
-
-### Dark Reader
-
-Mengaktifkan mode gelap untuk setiap website yang dikunjungi.
-
-:::
-
-::::
-
-## Standart Addons {.smaller}
-
-:::: {.columns}
-
-::: {.column width="50%"}
-
-![](img/addons-duckduckgo.webp)
-:::
-
-::: {.column width="50%"}
-
-### DuckDuckGo
-
-Pelindung privasi pengguna untuk memblokir pelacak, pelindung cookie, dan lain-lain.
-:::
-
-::::
-
-## Standart Addons {.smaller}
-
-:::: {.columns}
-
-::: {.column width="50%"}
-
-![](img/addons-privacy-badger.webp)
-:::
-
-::: {.column width="50%"}
-
-### Privacy Badger
-
-Pemblokir pelacak yang tak terlihat.
-
-:::
-
-::::
-
-## Standart Addons {.smaller}
-
-:::: {.columns}
-
-::: {.column width="50%"}
-
-![](img/addons-simple-translate.webp)
-:::
-
-::: {.column width="50%"}
-
-### Simple Translate
-
-Penerjemah website yang dikunjungi.
-
-:::
-
-::::
-
-## Standart Addons {.smaller}
-
-:::: {.columns}
-
-::: {.column width="50%"}
-
-![](img/addons-ublock-origin.webp)
-:::
-
-::: {.column width="50%"}
-
-### uBlock Origin
-
-Pemblokir iklan yang efektif dan ringan.
-
-:::
-
-::::
+...
 
 # Any Question? {background-color="rgb(10, 132, 81)"}
 
 # Simple Homework
 
-1. Berikan 5 contoh ekstensi untuk browser.
-1. Jelaskan jenis dan fungsi ekstensi tersebut.
+1. Apa saja perbedaan Microsoft office dan LibreOffice?
+1. Mengapa harus menggunakan LibreOffice?
+1. Apa yang harus dilakukan jika menemui kendala dalam menggunakan Libreoffice?
 
 # What the Next?
 
 Materi minggu depan apa ya...
 
-* Topik: _**Computer Science**_
-* Deskripsi: Belajar & mengenal ilmu komputer.
+* Topik: _**Web Development HTML**_
+* Deskripsi: Belajar & praktek di perangkat lunak perkantoran.
 * Tempat: Laboratorium komputer.
 
 [Back to home](/)

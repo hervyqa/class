@@ -1,5 +1,5 @@
 ---
-title: "#5 Introduction Web Browser"
+title: "#5 Introduction to Addons/Extension"
 author: "#VII - Hervy Qurrotul Ainur Rozi"
 format: "revealjs"
 logo: logo.svg
@@ -10,98 +10,165 @@ footer: |
 
 ## Learning objectives {.smaller}
 
-Topik: **Mengenal Peramban Web**
+Topik: **Teori - Mengenal Addons/Ekstensi Web Browser**
 
-1. Murid mampu mengetahui macam-macam browser.
-1. Murid mampu mengetahui platform setiap browser.
+1. Murid mampu mengetahui jenis-jenis addons atau ekstensi.
+1. Murid mampu mengetahui fungsi dari setiap addons dasar yang dibutuhkan di browser.
 
 ## Benefits of learning {.smaller}
 
-1. Pengguna bisa mengenal jenis-jenis web browser dan manfaatnya.
+1. Pengguna terbiasa menggunakan perangkat lunak berbasis yang terbuka (open source).
+1. Pengguna mampu memasang sendiri addons di berbagai platform.
 
 ## Why is this important? {.smaller}
 
-Bertujuan untuk melatih kemampuan siswa-siswi untuk menggunakan dan mengoptimalkan browser.
+Bertujuan untuk sosialiasi perangkat lunak addons untuk melindungi privasi data setiap pengguna.
 
-# Web Browser
+## Whats is Addons? {.smaller}
 
-## Mozilla Firefox {.smaller}
+Add-Ons adalah komponen opsional atau pilihan, dalam hal ini berupa sebuah perangkat lunak yang bila ditambahkan ke dalam perangkat lunak utama browser.
 
-- **Sistem Operasi**: Windows, Linux, MacOS, Android, iOS
-- **Platform**: Desktop, Mobile
+Misalnya di Firefox Browser tanpa tambahan addons sekalipun Firefox tetap dapat dimanfaatkan fungsi–fungsi utamanya. Tetapi akan lebih bagus jika di tambahkan beberapa addons.
 
-Browser terbaik ini dirancang oleh Mozilla Foundation yang mulanya diberi nama Phoenix pada tahun 2002. Lalu, setelah berjalannya waktu, nama Phoenix pun berganti menjadi Mozilla Firefox.
+## Tautan Addons {.smaller}
 
-Sejak awal perilisannya, banyak pengguna yang sangat antusias untuk menggunakan browser buatan Amerika ini. Bahkan, di tahun 2008 Mozilla Firefox berhasil meraup sebagian besar pengguna Internet Explorer dengan jumlah lebih dari 500 juta kali unduh.
+- Firefox: <https://addons.mozilla.org>
+- Chrome: <https://chrome.google.com/webstore>
+- Opera: <https://addons.opera.com>
 
-## Google Chrome {.smaller}
+## Jenis-Jenis Addons {.smaller}
 
-- **Sistem Operasi**: Windows, Linux, MacOS, Android, iOS
-- **Platform**: Desktop, Mobile
+:::: {.columns}
 
-Google Chrome dinobatkan sebagai browser terbaik saat ini meskipun di awal rilisnya tahun 2008 mengalami kesulitan untuk menyaingi para kompetitornya seperti Internet Explorer, Firefox dan browser Safari. 
+::: {.column width="50%"}
+- Peringatan dan pembaruan
+- Tampilan
+- Penanda (Bookmark)
+- Manajemen Unduhan
+- Berita dan Blog
+- Permainan dan Entertain
+- Dukungan Bahasa
+:::
 
-Di tahun 2018, Google pun merombak total browser Chrome dengan meluncurkan pembaruan keamanan secara berkala. Hasilnya, di awal tahun 2019, Google Chrome berhasil memperoleh pengguna sebesar 65% dari pangsa pasar browser desktop global.
+::: {.column width="50%"}
+- Foto, Musik dan Video
+- Privasi dan Keamanan
+- Perkakas Pencarian
+- Belanja (Shopping)
+- Sosial dan Komunikasi
+- Tabs
+- Pengembangan Situs (Web tools)
+:::
 
-## Opera {.smaller}
+::::
 
-- **Sistem Operasi**: Windows, Linux, MacOS, Android, iOS
-- **Platform**: Desktop, Mobile
+## Standart Addons {.smaller}
 
-Dari sekian browser terbaik saat ini, Opera masih termasuk salah satu yang patut diperhitungkan. Walau tidak mendominasi pangsa pasar browser secara global, Opera masih menjadi browser terbaik yang recommended untuk segala sistem operasi, baik di Windows, Linux, Mac OS X hingga browser untuk smartphone.
+:::: {.columns}
 
-## Maxthon {.smaller}
+::: {.column width="50%"}
 
-- **Sistem Operasi**: Windows, Linux, MacOS, Android, iOS
-- **Platform**: Desktop, Mobile
+![](img/addons-dark-reader.webp)
+:::
 
-Dibanding jejeran browser terbaik sebelumnya, mungkin Maxthon tergolong browser yang belum banyak dikenal, terutama untuk pengguna internet di Indonesia. Padahal, browser terbaik keluaran Cina ini mempunyai banyak sekali keunggulan, termasuk kecepatan akses yang tak kalah saing dengan browser terbaik dan ternama lainnya.
+::: {.column width="50%"}
 
-## Vivaldi {.smaller}
+### Dark Reader
 
-- **Sistem Operasi**: Windows, Linux, MacOS, Android, iOS
-- **Platform**: Desktop, Mobile
+Mengaktifkan mode gelap untuk setiap website yang dikunjungi.
 
-Vivaldi merupakan salah satu rekomendasi browser terbaik berikutnya yang patut Anda coba. Banyak yang tidak tahu, kalau ternyata browser terbaik rilisan tahun 2016 ini diciptakan oleh mantan CEO Opera Software, yaitu Jon Stephenson. Mulanya browser tercepat ini terbentuk sebagai komunitas virtual yang menggantikan My Opera yang sudah tidak beroperasi di tahun 2014.
+:::
 
-Namun bagi Jon Stephenson, keberadaan komunitas sangatlah membantu untuk pengembangan browser terbaik. Itulah mengapa ia membentuk Vivaldi dan memboyong fitur-fitur serupa dengan Opera yang lebih inovatif.
+::::
 
-## Microsoft Edge {.smaller}
+## Standart Addons {.smaller}
 
-- **Sistem Operasi**: Windows, Linux, MacOS, Android, iOS
-- **Platform**: Desktop, Mobile
+:::: {.columns}
 
-Rekomendasi browser terbaik selanjutnya adalah Microsoft Edge. Sesuai namanya, Microsoft Edge adalah browser yang dikembangkan oleh raksasa teknologi dunia Microsoft.
+::: {.column width="50%"}
 
-Bagi yang menggunakan komputer berbasis Windows pasti pernah mencoba browser terbaik dan tercepat ini. Karena, Microsoft Edge merupakan browser bawaan Windows OS.
+![](img/addons-duckduckgo.webp)
+:::
 
-## Apple Safari {.smaller}
+::: {.column width="50%"}
 
-- **Sistem Operasi**: MacOS, iOS
-- **Platform**: Desktop, Mobile
+### DuckDuckGo
 
-Jika Microsoft Edge adalah peramban bawaan komputer berbasis Windows, maka Safari adalah browser terbaik bawaan perangkat buatan Apple. Baik itu Macbook, iPhone, atau iPad. Meskipun hadir secara eksklusif untuk Apple, ternyata Safari bertengger menjadi salah satu browser terbaik dan terpopuler di dunia.
+Pelindung privasi pengguna untuk memblokir pelacak, pelindung cookie, dan lain-lain.
+:::
 
-## Brave {.smaller}
+::::
 
-- **Sistem Operasi**: Windows, Linux, MacOS, Android, iOS
-- **Platform**: Desktop, Mobile
+## Standart Addons {.smaller}
 
-Brave Browser mengedepankan keamanan dan privasi, maka Brave adalah jawabannya. Browser terbaik yang dikembangkan di San Fransisco, Amerika Serikat ini mengklaim dirinya akan selalu memproteksi penggunanya ketika browsing dari ancaman berbahaya, seperti penyalahgunaan data.
+:::: {.columns}
 
-## DuckDuckGo {.smaller}
+::: {.column width="50%"}
 
-- **Sistem Operasi**: Android, iOS
-- **Platform**: Mobile
+![](img/addons-privacy-badger.webp)
+:::
 
-DuckDuckGo adalah alternatif browser terbaik untuk perangkat mobile berbasis Android dan iOS. Awalnya, DuckDuckGo hanyalah sebuah mesin pencari yang punya keunggulan di sisi privasi. Hingga akhirnya, mereka berhasil menciptakan browser terbaik sendiri yang kompatibel untuk dua OS di atas.
+::: {.column width="50%"}
+
+### Privacy Badger
+
+Pemblokir pelacak yang tak terlihat.
+
+:::
+
+::::
+
+## Standart Addons {.smaller}
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+![](img/addons-simple-translate.webp)
+:::
+
+::: {.column width="50%"}
+
+### Simple Translate
+
+Penerjemah website yang dikunjungi.
+
+:::
+
+::::
+
+## Standart Addons {.smaller}
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+![](img/addons-ublock-origin.webp)
+:::
+
+::: {.column width="50%"}
+
+### uBlock Origin
+
+Pemblokir iklan yang efektif dan ringan.
+
+:::
+
+::::
 
 # Any Question? {background-color="rgb(10, 132, 81)"}
 
-# Simple Labwork
+# Simple Homework
 
-1. Apa saja manfaat dari web browser?
-1. Apa web browser favoritmu? jelaskan kelebihan dan kekurangannya?
-1. Bagaimana melindungi web browser dari iklan dan virus?
+1. Berikan 5 contoh ekstensi untuk browser.
+1. Jelaskan jenis dan fungsi ekstensi tersebut.
+
+# What the Next?
+
+Materi minggu depan apa ya...
+
+* Topik: _**Computer Science**_
+* Deskripsi: Belajar & mengenal ilmu komputer.
+* Tempat: Laboratorium komputer.
 
 [Back to home](/)

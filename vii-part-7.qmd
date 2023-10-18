@@ -1,5 +1,5 @@
 ---
-title: "#7 Computer Science & Definition"
+title: "#7 Web Development HTML Markup Language"
 author: "#VII - Hervy Qurrotul Ainur Rozi"
 format: "revealjs"
 logo: logo.svg
@@ -10,32 +10,43 @@ footer: |
 
 ## Learning objectives {.smaller}
 
-Topik: **Teori - Ilmu Komputer dan Definisinya**
+Topik: **Praktik - Pengembangan Website dengan bahasa pemrograman HTML**
 
-1. Murid mampu mengetahui ...
+1. Murid mampu mengetahui bahasa markup HTML.
+1. Murid mampu mengetahui tag-tag dan elemen dari HTML.
+1. Murid mampu membuat berkas `.html` di kode editor.
 
 ## Benefits of learning {.smaller}
 
-1. ...
+1. Pengguna bisa membuat halaman web dasar.
 
 ## Why is this important? {.smaller}
 
-...
+Bertujuan untuk melatih kemampuan siswa-siswi dalam mengembangkan suatu kerangka dasar dari sebuah website.
+
+# HTML?
+
+HTML5 adalah sebuah bahasa markah untuk menstrukturkan dan menampilkan isi dari World Wide Web, sebuah teknologi inti dari Internet. HTML5 adalah revisi kelima dari HTML (yang pertama kali diciptakan pada tahun 1990 dan versi keempatnya, HTML4, pada tahun 1997) dan hingga bulan Juni 2011 masih dalam pengembangan. Tujuan utama pengembangan HTML5 adalah untuk memperbaiki teknologi HTML agar mendukung teknologi multimedia terbaru, mudah dibaca oleh manusia dan juga mudah dimengerti oleh mesin.
+
+## Practicum
+
+1. Buka playstore.
+1. Install aplikasi `WildLearn` sebagai kumpulan materi pemrograman.
+1. Install aplikasi `Code Studio` sebagai kode editor.
+
+## WildLearn
+
+![](img/wildlearn.webp)
+## Code Studio
+
+![](img/code_studio.webp)
 
 # Any Question? {background-color="rgb(10, 132, 81)"}
 
 # Simple Homework
 
-1. Apa saja perbedaan Microsoft office dan LibreOffice?
-1. Mengapa harus menggunakan LibreOffice?
-1. Apa yang harus dilakukan jika menemui kendala dalam menggunakan Libreoffice?
-
-# What the Next?
-
-Materi minggu depan apa ya...
-
-* Topik: _**Web Development HTML**_
-* Deskripsi: Belajar & praktek di perangkat lunak perkantoran.
-* Tempat: Laboratorium komputer.
+1. Apa saja manfaat dari bahasa HTML?
+1. Mengapa pembuatan website harus menggunakan HTML?
+1. Selesaikan materi di wildlearn dari `Getting started` sampai `Formatting`?
 
 [Back to home](/)

@@ -1,5 +1,5 @@
 ---
-title: "#4 Web Development HTML Markup Language"
+title: "#4 Introduction Web Browser"
 author: "#VII - Hervy Qurrotul Ainur Rozi"
 format: "revealjs"
 logo: logo.svg
@@ -10,43 +10,98 @@ footer: |
 
 ## Learning objectives {.smaller}
 
-Topik: **Praktik - Pengembangan Website dengan bahasa pemrograman HTML**
+Topik: **Mengenal Peramban Web**
 
-1. Murid mampu mengetahui bahasa markup HTML.
-1. Murid mampu mengetahui tag-tag dan elemen dari HTML.
-1. Murid mampu membuat berkas `.html` di kode editor.
+1. Murid mampu mengetahui macam-macam browser.
+1. Murid mampu mengetahui platform setiap browser.
 
 ## Benefits of learning {.smaller}
 
-1. Pengguna bisa membuat halaman web dasar.
+1. Pengguna bisa mengenal jenis-jenis web browser dan manfaatnya.
 
 ## Why is this important? {.smaller}
 
-Bertujuan untuk melatih kemampuan siswa-siswi dalam mengembangkan suatu kerangka dasar dari sebuah website.
+Bertujuan untuk melatih kemampuan siswa-siswi untuk menggunakan dan mengoptimalkan browser.
 
-# HTML?
+# Web Browser
 
-HTML5 adalah sebuah bahasa markah untuk menstrukturkan dan menampilkan isi dari World Wide Web, sebuah teknologi inti dari Internet. HTML5 adalah revisi kelima dari HTML (yang pertama kali diciptakan pada tahun 1990 dan versi keempatnya, HTML4, pada tahun 1997) dan hingga bulan Juni 2011 masih dalam pengembangan. Tujuan utama pengembangan HTML5 adalah untuk memperbaiki teknologi HTML agar mendukung teknologi multimedia terbaru, mudah dibaca oleh manusia dan juga mudah dimengerti oleh mesin.
+## Mozilla Firefox {.smaller}
 
-## Practicum
+- **Sistem Operasi**: Windows, Linux, MacOS, Android, iOS
+- **Platform**: Desktop, Mobile
 
-1. Buka playstore.
-1. Install aplikasi `WildLearn` sebagai kumpulan materi pemrograman.
-1. Install aplikasi `Code Studio` sebagai kode editor.
+Browser terbaik ini dirancang oleh Mozilla Foundation yang mulanya diberi nama Phoenix pada tahun 2002. Lalu, setelah berjalannya waktu, nama Phoenix pun berganti menjadi Mozilla Firefox.
 
-## WildLearn
+Sejak awal perilisannya, banyak pengguna yang sangat antusias untuk menggunakan browser buatan Amerika ini. Bahkan, di tahun 2008 Mozilla Firefox berhasil meraup sebagian besar pengguna Internet Explorer dengan jumlah lebih dari 500 juta kali unduh.
 
-![](img/wildlearn.webp)
-## Code Studio
+## Google Chrome {.smaller}
 
-![](img/code_studio.webp)
+- **Sistem Operasi**: Windows, Linux, MacOS, Android, iOS
+- **Platform**: Desktop, Mobile
+
+Google Chrome dinobatkan sebagai browser terbaik saat ini meskipun di awal rilisnya tahun 2008 mengalami kesulitan untuk menyaingi para kompetitornya seperti Internet Explorer, Firefox dan browser Safari. 
+
+Di tahun 2018, Google pun merombak total browser Chrome dengan meluncurkan pembaruan keamanan secara berkala. Hasilnya, di awal tahun 2019, Google Chrome berhasil memperoleh pengguna sebesar 65% dari pangsa pasar browser desktop global.
+
+## Opera {.smaller}
+
+- **Sistem Operasi**: Windows, Linux, MacOS, Android, iOS
+- **Platform**: Desktop, Mobile
+
+Dari sekian browser terbaik saat ini, Opera masih termasuk salah satu yang patut diperhitungkan. Walau tidak mendominasi pangsa pasar browser secara global, Opera masih menjadi browser terbaik yang recommended untuk segala sistem operasi, baik di Windows, Linux, Mac OS X hingga browser untuk smartphone.
+
+## Maxthon {.smaller}
+
+- **Sistem Operasi**: Windows, Linux, MacOS, Android, iOS
+- **Platform**: Desktop, Mobile
+
+Dibanding jejeran browser terbaik sebelumnya, mungkin Maxthon tergolong browser yang belum banyak dikenal, terutama untuk pengguna internet di Indonesia. Padahal, browser terbaik keluaran Cina ini mempunyai banyak sekali keunggulan, termasuk kecepatan akses yang tak kalah saing dengan browser terbaik dan ternama lainnya.
+
+## Vivaldi {.smaller}
+
+- **Sistem Operasi**: Windows, Linux, MacOS, Android, iOS
+- **Platform**: Desktop, Mobile
+
+Vivaldi merupakan salah satu rekomendasi browser terbaik berikutnya yang patut Anda coba. Banyak yang tidak tahu, kalau ternyata browser terbaik rilisan tahun 2016 ini diciptakan oleh mantan CEO Opera Software, yaitu Jon Stephenson. Mulanya browser tercepat ini terbentuk sebagai komunitas virtual yang menggantikan My Opera yang sudah tidak beroperasi di tahun 2014.
+
+Namun bagi Jon Stephenson, keberadaan komunitas sangatlah membantu untuk pengembangan browser terbaik. Itulah mengapa ia membentuk Vivaldi dan memboyong fitur-fitur serupa dengan Opera yang lebih inovatif.
+
+## Microsoft Edge {.smaller}
+
+- **Sistem Operasi**: Windows, Linux, MacOS, Android, iOS
+- **Platform**: Desktop, Mobile
+
+Rekomendasi browser terbaik selanjutnya adalah Microsoft Edge. Sesuai namanya, Microsoft Edge adalah browser yang dikembangkan oleh raksasa teknologi dunia Microsoft.
+
+Bagi yang menggunakan komputer berbasis Windows pasti pernah mencoba browser terbaik dan tercepat ini. Karena, Microsoft Edge merupakan browser bawaan Windows OS.
+
+## Apple Safari {.smaller}
+
+- **Sistem Operasi**: MacOS, iOS
+- **Platform**: Desktop, Mobile
+
+Jika Microsoft Edge adalah peramban bawaan komputer berbasis Windows, maka Safari adalah browser terbaik bawaan perangkat buatan Apple. Baik itu Macbook, iPhone, atau iPad. Meskipun hadir secara eksklusif untuk Apple, ternyata Safari bertengger menjadi salah satu browser terbaik dan terpopuler di dunia.
+
+## Brave {.smaller}
+
+- **Sistem Operasi**: Windows, Linux, MacOS, Android, iOS
+- **Platform**: Desktop, Mobile
+
+Brave Browser mengedepankan keamanan dan privasi, maka Brave adalah jawabannya. Browser terbaik yang dikembangkan di San Fransisco, Amerika Serikat ini mengklaim dirinya akan selalu memproteksi penggunanya ketika browsing dari ancaman berbahaya, seperti penyalahgunaan data.
+
+## DuckDuckGo {.smaller}
+
+- **Sistem Operasi**: Android, iOS
+- **Platform**: Mobile
+
+DuckDuckGo adalah alternatif browser terbaik untuk perangkat mobile berbasis Android dan iOS. Awalnya, DuckDuckGo hanyalah sebuah mesin pencari yang punya keunggulan di sisi privasi. Hingga akhirnya, mereka berhasil menciptakan browser terbaik sendiri yang kompatibel untuk dua OS di atas.
 
 # Any Question? {background-color="rgb(10, 132, 81)"}
 
-# Simple Homework
+# Simple Labwork
 
-1. Apa saja manfaat dari bahasa HTML?
-1. Mengapa pembuatan website harus menggunakan HTML?
-1. Selesaikan materi di wildlearn dari `Getting started` sampai `Formatting`?
+1. Apa saja manfaat dari web browser?
+1. Apa web browser favoritmu? jelaskan kelebihan dan kekurangannya?
+1. Bagaimana melindungi web browser dari iklan dan virus?
 
 [Back to home](/)
