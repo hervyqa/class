@@ -48,7 +48,7 @@ Ada banyak manfaat menggunakan *IDE*, tetapi yang menonjol yaitu tentang efisien
 
 # Jenis-jenis *IDE* {background-color="rgb(10, 132, 81)"}
 
-## *IDE* spesifik bahasa pemrograman {.smaller}
+## *IDE* spesifik bahasa pemrograman {background-color="rgb(10, 132, 81)"}
 
 Dengan adanya *IDE* yang lebih spesifik dengan bahasa pemrograman tertentu, pengguna tidak terlalu mengatur kebutuhan untuk pengolahan data, misalnya memasang addons, konfigurasi *versioning control*, mengatur layout editor yang sesuai dengan alur kerja, plotting visualisasi dan sebagainya.
 Pengguna hanya memasang beberapa tambahan pustaka yang diperlukan.
@@ -75,7 +75,7 @@ Sypder memiliki fitur builtin yang luar biasa seperti pengefitan lanjutan, anali
 JupyterLab memiliki fitur lebih seperti notebook, terminal, teks editor, file browser, output, dan lain-lain.
 Fiturnya sangat mampu untuk memenuhi alur kerja untuk bidang data sains, komputasi ilmiah, jurnalis komputasi dan machine learning.
 
-# *IDE* untuk tujuan umum {background-color="rgb(10, 132, 81)"}
+## *IDE* untuk tujuan umum {background-color="rgb(10, 132, 81)"}
 
 IDE yang digunakan dapat digunakan untuk membuat perangkat lunak dengan berbagai macam bahasa pemrograman. 
 
