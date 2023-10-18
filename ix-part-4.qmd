@@ -171,7 +171,7 @@ Proses ini sangat berbeda dengan compiler, dimana pada compiler, hasilnya sudah 
 # Simple Homework {.smaller}
 
 1. Ada banyak IDE yang khusus untuk pemrograman bahasa dengan kompiler seperti Geany, Codeblock, Kdevelop, Netbeans dan Android Studio. Jelaskan pengertian yang dimaksud dari 5 IDE tersebut.
-1. Terdapat kompiler utuk bahasa C/C++ yaitu GCC dan Clang. Jelaskan pengertian dua kompiler tersebut beserta kelebihan dan kekurangannya.
+1. Terdapat kompiler utuk bahasa C/C++ yaitu GCC, Clang dan MinGW. Jelaskan pengertian tiga kompiler tersebut beserta kelebihan dan kekurangannya.
 
 # What the Next?
 
