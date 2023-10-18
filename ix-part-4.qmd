@@ -1,5 +1,5 @@
 ---
-title: "#4 IDE, Compiler and Tools for Programmer"
+title: "#4 IDE, Compiler and Intrepreter for Programmer"
 author: "#IX - Hervy Qurrotul Ainur Rozi"
 format: "revealjs"
 logo: logo.svg
@@ -20,7 +20,7 @@ Topik: **IDE, kompiler dan perkakas untuk programmer**
 1. Pengguna bisa memasang dan menggunakan IDE beserta plugin yang dibutuhkan.
 2. Pengguna bisa membuat program dan mengkompilasi program.
 
-# Integrated Development Environment (IDE)
+# Integrated Development Environment (IDE) {background-color="rgb(10, 132, 81)"}
 
 ## What is *IDE*? {.smaller}
 
@@ -46,9 +46,9 @@ Ada banyak manfaat menggunakan *IDE*, tetapi yang menonjol yaitu tentang efisien
   * **Hemat waktu**.
   Mengurangi waktu yang dibutuhkan untuk mempelajari banyak jenis perkakas yang berbeda. Dikarenakan banyak fitur yang tersedia, pengguna bisa langsung memilih fitur apa yang dibutuhkan.
 
-# Jenis *IDE*
+# Jenis-jenis *IDE* {background-color="rgb(10, 132, 81)"}
 
-# *IDE* spesifik bahasa pemrograman {.smaller}
+## *IDE* spesifik bahasa pemrograman {.smaller}
 
 Dengan adanya *IDE* yang lebih spesifik dengan bahasa pemrograman tertentu, pengguna tidak terlalu mengatur kebutuhan untuk pengolahan data, misalnya memasang addons, konfigurasi *versioning control*, mengatur layout editor yang sesuai dengan alur kerja, plotting visualisasi dan sebagainya.
 Pengguna hanya memasang beberapa tambahan pustaka yang diperlukan.
@@ -75,7 +75,9 @@ Sypder memiliki fitur builtin yang luar biasa seperti pengefitan lanjutan, anali
 JupyterLab memiliki fitur lebih seperti notebook, terminal, teks editor, file browser, output, dan lain-lain.
 Fiturnya sangat mampu untuk memenuhi alur kerja untuk bidang data sains, komputasi ilmiah, jurnalis komputasi dan machine learning.
 
-# *IDE* untuk tujuan umum
+# *IDE* untuk tujuan umum {background-color="rgb(10, 132, 81)"}
+
+IDE yang digunakan dapat digunakan untuk membuat perangkat lunak dengan berbagai macam bahasa pemrograman. 
 
 ## Code-OSS {.smaller}
 
@@ -98,27 +100,85 @@ Dengan adanya tambahan komponen *nonfree* dari Microsoft tentu VSCode [tidak ber
 Menjalankan VSCodium di terminal bisa menggunakan perintah `codium`.
 Penulis menyarankan untuk menggunakan VSCodium daripada menggunakan VSCode.
 
-# Compiler
+# Compiler {background-color="rgb(10, 132, 81)"}
 
-_Coming soon.._
+## Pengertian {.smaller}
 
-# Tools
+Compiler adalah software komputer yang mengubah kode sumber (source code) program dalam bahasa pemrograman menjadi kode objek atau bahasa mesin yang dimengerti komputer untuk kemudian dieksekusi.
 
-_Coming soon.._
+```{mermaid}
+flowchart LR
+  A{Bahasa Pemrograman} --> B{Compiler}
+  B --> C{Bahasa Mesin}
+```
+
+## Bahasa pemrograman dengan Compiler {.smaller}
+
+Terlepas dari pengertiannya yang luas, istilah compiler biasa digunakan untuk program komputer yang menerjemahkan program yang ditulis dalam bahasa pemrograman tingkat tinggi (semacam bahasa Pascal, C++, BASIC, FORTRAN, Visual Basic, Visual C#, Java, xBase, atau COBOL) menjadi bahasa mesin, biasanya dengan bahasa Assembly sebagai perantara.
+
+## Fungsi Compiler {.smaller}
+
+1. Memeriksa kesalahan sintaks atau logika pada kode sumber program untuk mengurangi risiko program error.
+1. Mengubah source code program menjadi bentuk machine code yang lebih efisien untuk dieksekusi komputer.
+1. Menyediakan fitur debugging guna membantu programmer menemukan bug dan memperbaiki kesalahan pada program komputer.
+1. Mendukung pengembangan software lintas platform, di mana compiler menerjemahkan program menjadi machine code yang berbeda agar bisa dijalankan di platform lainnya.
+1. Mempercepat proses compiling menggunakan teknik kompilasi incremental, yaitu hanya menerjemahkan bagian kode yang diubah saja.
+1. Meningkatkan performa program komputer dengan cara mengoptimasi hasil instruksi mesin.
+1. Memastikan keamanan program dengan memvalidasi kode agar tidak menimbulkan celah kerentanan.
+
+# Intrepreter {background-color="rgb(10, 132, 81)"}
+
+## Pengertian {.smaller}
+
+Dalam ilmu komputer, penerjemah atau lebih dikenal dengan interpreter merupakan perangkat lunak yang berfungsi melakukan eksekusi sejumlah instruksi yang ditulis dalam suatu bahasa pemrograman tanpa terlebih dahulu menyusunnya menjadi program bahasa mesin.
+
+```{mermaid}
+flowchart LR
+  A{Bahasa Pemrograman} --> B{Bahasa Mesin}
+```
+
+## Bahasa pemrograman dengan Intrepreter {.smaller}
+
+Perl, Python, Ruby, dan MATLAB adalah beberapa contoh perangkat lunak penerjemah bertipe 2, sementara Java termasuk dalam kategori tipe 3, namun dalam beberapa kasus Java dapat digolongkan pula ke dalam kategori tipe 2.
+
+## Cara Kerja Intrepreter {.smaller}
+
+Interpreter umumnya menggunakan salah satu strategi berikut untuk menjalankan program:
+
+1. Mengeksekusi kode sumber secara langsung, atau
+1. Menerjemahkannya ke dalam serangkaian p-code kemudian mengeksekusinya, atau
+1. Mengeksekusi kode yang telah dikompilasi sebelumnya oleh compiler yang merupakan bagian dari sistem penerjemahan.
+
+Proses ini sangat berbeda dengan compiler, dimana pada compiler, hasilnya sudah langsung berupa satu kesatuan perintah dalam bentuk bahasa mesin, dimana proses penterjemahan dilaksanakan sebelum program tersebut dieksekusi.
+
+## Perbedaan {.smaller}
+
+| Compiler | Interpreter |
+| --- | --- |
+| Memindai seluruh program dan menerjemahkannya secara keseluruhan ke dalam kode mesin. | Menerjemahkan satu pernyataan satu per satu. |
+| Dibutuhkan banyak waktu untuk menganalisis kode sumber namun keseluruhan waktu eksekusi relatif lebih cepat. | Dibutuhkan sedikit waktu untuk menganalisis kode sumber namun keseluruhan waktu eksekusi lebih lambat. |
+
+## Perbedaan {.smaller}
+
+| Compiler | Interpreter |
+| --- | --- |
+| Menghasilkan kode objek menengah yang membutuhkan tautan lebih lanjut, sehingga membutuhkan lebih banyak memori. | Tidak ada kode objek antara yang dihasilkan, maka memori menjadi efisien. |
+| Ini menghasilkan pesan kesalahan hanya setelah memindai seluruh program. | Terus menerjemahkan program sampai kesalahan pertama terpenuhi, dalam hal ini berhenti. Oleh karena itu debugging mudah dilakukan. |
+| Bahasa pemrograman seperti C, C++ menggunakan kompiler. | Bahasa pemrograman seperti Python, Ruby menggunakan interpreter. |
 
 # Any Question? {background-color="rgb(10, 132, 81)"}
 
 # Simple Homework {.smaller}
 
-1. Deklarasi variable bilangan1 dengan 20, dan bilangan2 dengan 10 dan tampilkan hasil pengurangan bilangan1 & bilangan 2.
-1. Nia membeli baju dan mendapatkan potongan 10% dari harga baju 250.000. Hitung jumlah uang yang harus dibayar nia setelah potongan. Deklarasikan dengan bahasa python.
+1. Ada banyak IDE yang khusus untuk pemrograman bahasa dengan kompiler seperti Geany, Codeblock, Kdevelop, Netbeans dan Android Studio. Jelaskan pengertian yang dimaksud dari 5 IDE tersebut.
+1. Terdapat kompiler utuk bahasa C yaitu GCC dan Clang. Jelaskan pengertian dua kompiler tersebut beserta kelebihan dan kekurangannya.
 
 # What the Next?
 
 Materi minggu depan apa ya...
 
-* Topik: **Programming Language with Python (part 2)**
-* Deskripsi: _Belajar membuat program sederhana konversi suhu dengan bahasa python (lanjutan)._
+* Topik: **Programming Language with Python**
+* Deskripsi: _Belajar membuat program sederhana dengan bahasa Python._
 * Tempat: Laboratorium komputer.
 
 [Back to home](/)
