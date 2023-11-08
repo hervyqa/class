@@ -1,5 +1,5 @@
 ---
-title: "#5 Programming Language with Python Basic"
+title: "#5 Structure and Management of Company"
 author: "#IX - Hervy Qurrotul Ainur Rozi"
 format: "revealjs"
 logo: logo.svg
@@ -12,196 +12,79 @@ footer: |
 
 Topik: **Keuntungan dari perangkat lunak terbuka**
 
-1. Murid mampu mengetahui tipe data python.
-1. Murid mampu menggunakan bahasa pemrograman.
+1. Murid mampu mengetahui runtutan manajemen organisasi yang jelas dalam suatu perusahaan.
+1. Murid mampu mengetahui perbedaan CEO, COO, CFO, CTO, dan CMO.
+1. Murid mampu mengetahui tugas dan peranan CEO, COO, CFO, CTO, dan CMO.
 
-## Benefits of learning {.smaller}
+# CEO, COO, CFO, CTO dan CMO? {background-color="rgb(10, 132, 81)"}
 
-1. Pengguna bisa membuat program sederhana dari bahasa pemrograman python.
-2. Pengguna bisa membuat program kelulusan nilai dengan if-else.
+## Pengertian singkat {.smaller}
 
-# Bahasa Python?
+1. Kepanjangan CEO adalah Chief Executive Officer, CEO adalah pemegang kuasa tertinggi dalam perusahaan dan memiliki tanggung jawab untuk menetapkan suatu kebijakan berkaitan dengan keberlangsungan perusahaan.
+1. Kepanjangan COO adalah Chief Operating Officer, COO adalah pimpinan yang memiliki tugas mengurus dan membuat kebijakan perusahaan pada bagian operasional, Chief Operating Officer (COO) sering juga disebut tangan kedua dari CEO.
+1. Kepanjangan CFO adalah Chief Financial Officer, CFO adalah bagian dari pimpinan yang mengurus bagian keuangan perusahaan.
+1. Kepanjangan CTO adalah Chief Technology Officer, tugas atau peran CTO adalah mengatur segala kegiatan yang berhubungan dengan teknologi dan informasi dalam perusahaan.
+1. Kepanjangan CMO adalah Chief Marketing Officer, CMO adalah posisi eksekutif atau pimpinan perusahaan yang bertanggung jawab dalam urusan marketing atau pemasaran.
 
-## Python {.smaller}
+# CEO (Chief Executive Officer) {background-color="rgb(10, 132, 81)"}
 
-Python adalah bahasa pemrograman yang ditujukan untuk general-purpose programming dan termasuk dalam kategori high-level programming language.
+# Pengertian CEO {.smaller}
 
-Sebagai general-purpose programming language, Python digunakan untuk berbagai macam permasalahan seperti: pengembangan aplikasi web ataupun mobile, data science, dll.
+* CEO adalah singkatan dari Chief Executive Officer. Sementara, arti CEO yakni pemegang kuasa tertinggi dalam perusahaan. Posisinya sebagai pemimpin, membuat Chief Executive Officer (CEO) memiliki tanggung jawab untuk menetapkan suatu kebijakan berkaitan dengan keberlangsungan perusahaan.
+* CEO merupakan kunci dari suatu perusahaan. Dimana mereka harus mampu mengkomunikasikan arah dari perusahaan yang mereka pimpin kepada masyarakat ataupun pemerintah.  
+* Selain tugasnya sebagai pemimpin, ada juga tugas–tugas lain yang harus CEO jalankan, terutama dalam hal kepemimpinan yang termanajemen dengan baik. Jika seorang CEO tidak memiliki kemampuan kepemimpinan, maka tugasnya tidak bisa dijalankan dengan baik.
+* CEO adalah jantung dari perusahaan, sehingga mereka wajib tahu semua yang terjadi dalam perusahaan, semua itu bisa dilakukan dengan menerima laporan dari semua bagian kepala manajemen.
 
-Python masuk ke dalam kategori **high-level programming language** dikarenakan bahasa pemrograman Python yang mudah untuk dibaca dan dituliskan oleh manusia.
+# COO (Chief Operating Officer) {background-color="rgb(10, 132, 81)"}
 
-Bahasa  pemrograman  Python  diciptakan  oleh **Guido van Rossum** dan pertama kali diperkenalkan pada tahun 1991 sebagai sebuah proyek open-source.
+# Pengertian COO {.smaller}
 
-Sifat **open-source** dari Python mengartikan bahwa setiap orang dapat mengembangkan program komputer dengan menggunakan bahasa pemrograman Python baik untuk tujuan komersil/non-komersil.
+* COO adalah singkatan dari Chief Operating Officer. Mereka adalah bagian dari pimpinan yang memiliki tugas membuat kebijakan perusahaan pada bagian operasional, Chief Operating Officer (COO) sering juga disebut tangan kedua dari CEO.
+* COO sama juga posisinya dengan Executive Vice President. Sedangkan di Indonesia sendiri, CEO merupakan direktur utama dan dibantu COO yang bertindak sebagai direktur.
+* COO adalah mengoperasikan secara internal dari perusahaan. Bahkan pada beberapa perusahaan, COO juga berperan aktif dalam menentukan quality control.
+* CEO dan COO memiliki tugas yang saling melengkapi. Jika CEO fokus untuk memberi penjelasan kepada publik dan juga pemerintah, maka COO yang berperan aktif dalam mengendalikan internal dari perusahaan. Kebiasaan inilah yang membuat COO memiliki kemampuan teknis yang lebih.
 
-# Hello world
+# CFO (Chief Financial Officer) {background-color="rgb(10, 132, 81)"}
 
-Menampilkan teks.
+# Pengertian CFO {.smaller}
 
-``` markdown
-print("Hai dunia.")
-```
+* CFO adalah singkatan dari Chief Financial Officer, CFO adalah bagian dari pimpinan yang mengurus bagian keuangan perusahaan. Berbagai macam tugas keuangan melekat pada kedudukan CFO, seperti; pencatatan, perencanaan keuangan, hingga pengadministrasian perusahaan.
+* CFO memiliki tugas yang mirip dengan bendahara pada suatu organisasi. Sebagaimana fungsi utama Chief Financial Officer (CFO) yang mengatur kendali keuangan perusahaan, bahkan tidak jarang CFO juga menjalankan fungsi akuntansi.
+* CFO memiliki tanggung jawab kepada CEO. Dimana mereka harus memberikan pertimbangan keputusan dalam hal keuangan perusahaan. Selain itu, CFO juga memiliki tanggung jawab dalam proses dealnya investasi oleh investor atau pinjaman dari pihak ketiga.
+* Pada perusahaan yang bergerak dalam bidang keuangan, CFO merupakan pimpinan utama dalam perusahaan. Namun, berbeda pada perusahaan yang bergerak dalam bidang lain. Chief Financial Officer (CFO) menduduki jabatan ketiga dalam struktur perusahaan.
 
-# Belajar python
+# CTO (Chief Technology Officer) {background-color="rgb(10, 132, 81)"}
 
-[online-python.com](https://www.online-python.com)
+# Pengertian CTO {.smaller}
 
-# Struktur program python
+* CTO adalah singkatan dari Chief Technology Officer, tugas atau peran CTO dalam perusahaan adalah mengatur segala kegiatan yang berhubungan dengan teknologi dan informasi dalam perusahaan.
+* CTO ini banyak dimiliki perusahaan StartUp yang bergerak dalam bisnis internet ataupun aplikasi. Peran Chief Technology Officer (CTO) menjadi sangat penting dalam beberapa perusahaan.
+* Posisi CTO saat ini juga diperlukan pada beberapa perusahaan berskala besar. Bahkan CTO saat ini sangat diperhitungkan dalam dunia perusahaan, untuk runtutan struktur organisasinya sendiri, CTO berada di bawah tanggung jawab CEO.
 
-Program Python pada umumnya terdiri dari:
+# CMO (Chief Marketing Officer) {background-color="rgb(10, 132, 81)"}
 
-## Statements
+# Pengertian CMO {.smaller}
 
-Instruksi yang diberikan secara baris per baris untuk dijalankan oleh mesin. Contoh:
+* CMO adalah singkatan dari Chief Marketing Officer. Jika melihat dari arti kata bahasanya, maka dapat disimpullkan bahwa fungsi dari CMO adalah dalam bidang marketing.
+* CMO memiliki peran yang mirip dengan Direktur Marketing. Tetapi, ada juga yang menjelaskan bahwa CMO memiliki peran yang lebih luas dibanding Direktur Marketing.
+* CMO biasanya berfokus pada pengawasan terhadap perencanaan, pengembangan, pelaksanaan, dan memberikan solusi kendala. Bahkan untuk tugas yang lebih luas, CMO juga memberikan forecast untuk persiapan pemasaran pada kesempatan berikutnya.
 
-``` markdown
-print("Saya belajar python.")
-```
+# Penutup {background-color="rgb(10, 132, 81)"}
 
-## Variables
+# Kesimpulan {.smaller}
 
-Lokasi penyimpanan yang dapat digunakan untuk menampung sebuah data atau informasi. Contoh: aku mempunyai variabel yang bernama bilangan1, bilangan2, dan kalimat1
+Tidak semua perusahaan memiliki posisi tersebut secara lengkap. Namun pada dasarnya, setiap perusahaan memiliki runtutan organisasi yang sama. Posisi–posisi yang telah dijelaskan di atas, biasa juga disebut dengan C-Levels. Istilah ini biasa digunakan pada perusahaan startup.
 
-``` markdown
-bilangan1 = 5
-bilangan2 = 10
-kalimat1 = "Belajar Bahasa Python"
-```
-
-## Literals
-
-Simbol-simbol yang dapat kita gunakan untuk mengisi suatu variabel. Pada kode yang telah dicontohkan sebelumnya, angka `5` dan `10` serta `Belajar Bahasa Python` disebut sebagai literal.
-
-## Operators {.smaller}
-
-Simbol-simbol yang dapat digunakan untuk mengubah nilai dari satu variabel dengan melibatkan satu atau lebih variabel dan literal. Contoh: Tanda "`+`" merupakan salah satu contoh operator.
-
-| Operator  | Deskripsi     |
-| --------  | ------------- |
-| +         | Ditambah      |
-| -         | Dikurangi     |
-| /         | Dibagi        |
-| *         | Dikali        |
-| =         | Sama dengan   |
-| %         | Modulo        |
-
----
-
-Contoh:
-
-``` markdown
-bilangan1 = 5
-bilangan2 = 10
-tambah = bilangan1 + bilangan2
-kali = bilangan1 * bilangan2
-
-print("Hasil tambah: ", tambah)
-print("Hasil kali: ", kali)
-```
-
-Output:
-
-```{python}
-bilangan1 = 5
-bilangan2 = 10
-tambah = bilangan1 + bilangan2
-kali = bilangan1 * bilangan2
-
-print("Hasil tambah: ", tambah)
-print("Hasil kali: ", kali)
-```
-
-## Whitespace
-
-Pada bahasa Python, spasi dan tab memiliki makna khusus untuk menandai serangkaian blok dalam kode Python. Hal ini akan dijelaskan secara lebih lanjut pada bagian struktur pemilihan dan struktur pengulangan pada bahasa Python.
-
-## Comments {.smaller}
-
-Merupakan sekumpulan teks yang dituliskan di dalam sebuah program yang tidak akan mempengaruhi hasil dari sebuah program.
-
-Terdapat dua jenis comments di dalam Python, yaitu:
-
-a. single line comment (comments dalam satu baris) seperti pada contoh berikut:
-``` markdown
-# perintah pada baris ini tidak berpengaruh
-```
-
-b. multi line comment (comments dalam beberapa baris) yang dapat dituliskan seperti pada contoh berikut:
-```` markdown
-```
-perintah pada baris ini tidak berpengaruh.
-juga pada baris ini.
-dan baris ini juga.
-```
-````
-
-## Aturan Penamaan Python Variables {.smaller}
-
-Penamaan suatu variabel pada python dapat dikatakan valid selama memenuhi aturan-aturan berikut:
-
-1. Nama dari sebuah variabel harus dimulai dengan huruf (a-z, A-Z) atau karakter garis bawah underscore (_) dan tidak dapat dimulai dengan angka (0-9).
-1. Variabel hanya boleh mengandung karakter alfabet, bilangan dan underscore (a-z, A-Z, 0-9, _)
-1. Variabel bersifat case-sensitive yang mengartikan bahwa variabel TINGGI, tinggi, dan Tinggi merujuk pada tiga variabel berbeda.
-
-``` markdown
-bil1, bil2 = 5, 10
-kata1 = "Selamat", kata2 = "Pagi"
-```
-
-# Tipe Data Dasar
-
-Null, Boolean, Numeric dan Text
-
-## Null Type
-
-Tipe data null dalam Python digunakan untuk menyimpan nilai kosong atau tidak ada yang dinyatakan dengan `None`.
-
-## Boolean Type
-
-Tipe data boolean atau bool digunakan untuk menyimpan nilai kebenaran (`True`, `False`) dari suatu ekspresi logika.
-
-## Numeric Type
-
-Tipe data yang digunakan untuk menyimpan data berupa angka. Terdapat dua macam tipe data numeric, yaitu:
-
-* `int` untuk menyimpan bilangan bulat (contoh: 0, 1, 2, 404, -500, -1000)
-* `float` untuk menyimpan bilangan riil (contoh: 0.5, 1.01, 2.05, 4.04)
-
----
-
-Contoh :
-``` markdown
-# bilangan riil dikonversi jadi bilangan bulat/int
-angka1 = int(10.2)
-# bilangan bulat dikonversi jadi bilangan riil/float
-angka2 = float(20)
-
-print(angka1)
-print(angka2)
-```
-
-Hasil:
-
-```{python}
-# bilangan riil dikonversi jadi bilangan bulat/int
-angka1 = int(10.2)
-# bilangan bulat dikonversi jadi bilangan riil/float
-angka2 = float(20)
-
-print(angka1)
-print(angka2)
-```
-
-## Text Type
-
-Pada Python, tipe data string (`str`) digunakan untuk menyimpan data teks. Tipe data string dimulai dengan tanda kutip (baik kutip satu/ dua) dan diakhir dengan tanda kutip. Contoh: `"Teks"`, `"Contoh teks menggunakan Python"`, dan `'Teks pada Python'`.
+Sebelum mencapai karir pada tahapan C-Levels, tentu ada beberapa jenjang karir yang harus kamu lewati. Namun setidaknya, kamu perlu mengetahui pengertian dan perbedaan CEO, COO, CFO, CTO dan CMO agar bisa menjadi penyemangatmu dalam meraih karir.
 
 # Any Question? {background-color="rgb(10, 132, 81)"}
 
 # Simple Homework {.smaller}
 
-1. Deklarasi variable bilangan1 dengan 20, dan bilangan2 dengan 10 dan tampilkan hasil pengurangan bilangan1 & bilangan 2.
-1. Nia membeli baju dan mendapatkan potongan 10% dari harga baju 250.000. Hitung jumlah uang yang harus dibayar nia setelah potongan. Deklarasikan dengan bahasa python.
+1. Sebutkan 5 contoh tokoh CEO lokal (indonesia) dalam dunia perusahaan teknologi. Mulai dari nama dan riwayat perusahaannya secara singkat. Sebagai contoh: gojek, tokopedia, bukalapak, biznet, kaskus, dsb.
+1. Sebutkan 5 contoh tokoh CEO luar negeri dalam dunia perusahaan teknologi. Mulai dari nama dan riwayat perusahaannya secara singkat. Sebagai contoh: google, facebook, pinterest, alibaba, ebay, dsb.
+
+(setiap poin bernilai 10)
 
 # What the Next?
 
